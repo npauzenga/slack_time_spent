@@ -1,0 +1,1617 @@
+# Logfile created on 2016-06-28 11:39:29 -0400 by logger.rb/47272
+[2016-06-28 11:39:29 -0400 nate-mbp.home (23957)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 11:39:29 -0400 nate-mbp.home (23957)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 11:39:29 -0400 nate-mbp.home (23957)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 11:39:29 -0400 nate-mbp.home (23957)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 11:39:29 -0400 nate-mbp.home (23957)] INFO : Environment: development
+[2016-06-28 11:39:29 -0400 nate-mbp.home (23957)] INFO : Dispatcher: unicorn
+[2016-06-28 11:39:29 -0400 nate-mbp.home (23957)] INFO : Application: SlackRubyBotServer
+[2016-06-28 11:39:29 -0400 nate-mbp.home (23957)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 11:39:29 -0400 nate-mbp.home (23957)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 11:39:29 -0400 nate-mbp.home (23957)] INFO : Installing Mongo instrumentation
+[2016-06-28 11:39:29 -0400 nate-mbp.home (23957)] INFO : Installing Net instrumentation
+[2016-06-28 11:39:29 -0400 nate-mbp.home (23957)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 11:39:29 -0400 nate-mbp.home (23957)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 11:39:29 -0400 nate-mbp.home (23957)] INFO : Finished instrumentation
+[2016-06-28 11:39:29 -0400 nate-mbp.home (23957)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 11:39:29 -0400 nate-mbp.home (23957)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 11:39:29 -0400 nate-mbp.home (23957)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 11:39:29 -0400 nate-mbp.home (23957)] INFO : Environment: development
+[2016-06-28 11:39:29 -0400 nate-mbp.home (23957)] INFO : Dispatcher: unicorn
+[2016-06-28 11:39:29 -0400 nate-mbp.home (23957)] INFO : Application: SlackRubyBotServer
+[2016-06-28 11:39:29 -0400 nate-mbp.home (23957)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 11:40:00 -0400 nate-mbp.home (23975)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 11:40:00 -0400 nate-mbp.home (23975)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 11:40:00 -0400 nate-mbp.home (23975)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 11:40:00 -0400 nate-mbp.home (23975)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 11:40:00 -0400 nate-mbp.home (23975)] INFO : Environment: development
+[2016-06-28 11:40:00 -0400 nate-mbp.home (23975)] INFO : Dispatcher: unicorn
+[2016-06-28 11:40:00 -0400 nate-mbp.home (23975)] INFO : Application: SlackRubyBotServer
+[2016-06-28 11:40:00 -0400 nate-mbp.home (23975)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 11:40:00 -0400 nate-mbp.home (23975)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 11:40:00 -0400 nate-mbp.home (23975)] INFO : Installing Mongo instrumentation
+[2016-06-28 11:40:00 -0400 nate-mbp.home (23975)] INFO : Installing Net instrumentation
+[2016-06-28 11:40:00 -0400 nate-mbp.home (23975)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 11:40:00 -0400 nate-mbp.home (23975)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 11:40:00 -0400 nate-mbp.home (23975)] INFO : Finished instrumentation
+[2016-06-28 11:40:00 -0400 nate-mbp.home (23975)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 11:40:00 -0400 nate-mbp.home (23975)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 11:40:00 -0400 nate-mbp.home (23975)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 11:40:00 -0400 nate-mbp.home (23975)] INFO : Environment: development
+[2016-06-28 11:40:00 -0400 nate-mbp.home (23975)] INFO : Dispatcher: unicorn
+[2016-06-28 11:40:00 -0400 nate-mbp.home (23975)] INFO : Application: SlackRubyBotServer
+[2016-06-28 11:40:00 -0400 nate-mbp.home (23975)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 11:40:31 -0400 nate-mbp.home (23990)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 11:40:31 -0400 nate-mbp.home (23990)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 11:40:31 -0400 nate-mbp.home (23990)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 11:40:31 -0400 nate-mbp.home (23990)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 11:40:31 -0400 nate-mbp.home (23990)] INFO : Environment: development
+[2016-06-28 11:40:31 -0400 nate-mbp.home (23990)] INFO : Dispatcher: unicorn
+[2016-06-28 11:40:31 -0400 nate-mbp.home (23990)] INFO : Application: SlackRubyBotServer
+[2016-06-28 11:40:31 -0400 nate-mbp.home (23990)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 11:40:31 -0400 nate-mbp.home (23990)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 11:40:31 -0400 nate-mbp.home (23990)] INFO : Installing Mongo instrumentation
+[2016-06-28 11:40:31 -0400 nate-mbp.home (23990)] INFO : Installing Net instrumentation
+[2016-06-28 11:40:31 -0400 nate-mbp.home (23990)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 11:40:31 -0400 nate-mbp.home (23990)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 11:40:31 -0400 nate-mbp.home (23990)] INFO : Finished instrumentation
+[2016-06-28 11:40:31 -0400 nate-mbp.home (23990)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 11:40:31 -0400 nate-mbp.home (23990)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 11:40:31 -0400 nate-mbp.home (23990)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 11:40:31 -0400 nate-mbp.home (23990)] INFO : Environment: development
+[2016-06-28 11:40:31 -0400 nate-mbp.home (23990)] INFO : Dispatcher: unicorn
+[2016-06-28 11:40:31 -0400 nate-mbp.home (23990)] INFO : Application: SlackRubyBotServer
+[2016-06-28 11:40:31 -0400 nate-mbp.home (23990)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 11:45:25 -0400 nate-mbp.home (24182)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 11:45:25 -0400 nate-mbp.home (24182)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 11:45:25 -0400 nate-mbp.home (24182)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 11:45:25 -0400 nate-mbp.home (24182)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 11:45:25 -0400 nate-mbp.home (24182)] INFO : Environment: development
+[2016-06-28 11:45:25 -0400 nate-mbp.home (24182)] INFO : Dispatcher: unicorn
+[2016-06-28 11:45:25 -0400 nate-mbp.home (24182)] INFO : Application: SlackRubyBotServer
+[2016-06-28 11:45:25 -0400 nate-mbp.home (24182)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 11:45:25 -0400 nate-mbp.home (24182)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 11:45:25 -0400 nate-mbp.home (24182)] INFO : Installing Mongo instrumentation
+[2016-06-28 11:45:25 -0400 nate-mbp.home (24182)] INFO : Installing Net instrumentation
+[2016-06-28 11:45:25 -0400 nate-mbp.home (24182)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 11:45:25 -0400 nate-mbp.home (24182)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 11:45:25 -0400 nate-mbp.home (24182)] INFO : Finished instrumentation
+[2016-06-28 11:45:25 -0400 nate-mbp.home (24182)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 11:45:25 -0400 nate-mbp.home (24182)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 11:45:25 -0400 nate-mbp.home (24182)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 11:45:25 -0400 nate-mbp.home (24182)] INFO : Environment: development
+[2016-06-28 11:45:25 -0400 nate-mbp.home (24182)] INFO : Dispatcher: unicorn
+[2016-06-28 11:45:25 -0400 nate-mbp.home (24182)] INFO : Application: SlackRubyBotServer
+[2016-06-28 11:45:25 -0400 nate-mbp.home (24182)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 11:45:56 -0400 nate-mbp.home (24197)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 11:45:56 -0400 nate-mbp.home (24197)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 11:45:56 -0400 nate-mbp.home (24197)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 11:45:56 -0400 nate-mbp.home (24197)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 11:45:56 -0400 nate-mbp.home (24197)] INFO : Environment: development
+[2016-06-28 11:45:56 -0400 nate-mbp.home (24197)] INFO : Dispatcher: unicorn
+[2016-06-28 11:45:56 -0400 nate-mbp.home (24197)] INFO : Application: SlackRubyBotServer
+[2016-06-28 11:45:56 -0400 nate-mbp.home (24197)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 11:45:56 -0400 nate-mbp.home (24197)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 11:45:56 -0400 nate-mbp.home (24197)] INFO : Installing Mongo instrumentation
+[2016-06-28 11:45:56 -0400 nate-mbp.home (24197)] INFO : Installing Net instrumentation
+[2016-06-28 11:45:56 -0400 nate-mbp.home (24197)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 11:45:56 -0400 nate-mbp.home (24197)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 11:45:56 -0400 nate-mbp.home (24197)] INFO : Finished instrumentation
+[2016-06-28 11:45:56 -0400 nate-mbp.home (24197)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 11:45:56 -0400 nate-mbp.home (24197)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 11:45:56 -0400 nate-mbp.home (24197)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 11:45:56 -0400 nate-mbp.home (24197)] INFO : Environment: development
+[2016-06-28 11:45:56 -0400 nate-mbp.home (24197)] INFO : Dispatcher: unicorn
+[2016-06-28 11:45:56 -0400 nate-mbp.home (24197)] INFO : Application: SlackRubyBotServer
+[2016-06-28 11:45:56 -0400 nate-mbp.home (24197)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 11:50:20 -0400 nate-mbp.home (24727)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 11:50:20 -0400 nate-mbp.home (24727)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 11:50:20 -0400 nate-mbp.home (24727)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 11:50:20 -0400 nate-mbp.home (24727)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 11:50:20 -0400 nate-mbp.home (24727)] INFO : Environment: development
+[2016-06-28 11:50:20 -0400 nate-mbp.home (24727)] INFO : Dispatcher: unicorn
+[2016-06-28 11:50:20 -0400 nate-mbp.home (24727)] INFO : Application: SlackRubyBotServer
+[2016-06-28 11:50:20 -0400 nate-mbp.home (24727)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 11:50:20 -0400 nate-mbp.home (24727)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 11:50:20 -0400 nate-mbp.home (24727)] INFO : Installing Mongo instrumentation
+[2016-06-28 11:50:20 -0400 nate-mbp.home (24727)] INFO : Installing Net instrumentation
+[2016-06-28 11:50:20 -0400 nate-mbp.home (24727)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 11:50:20 -0400 nate-mbp.home (24727)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 11:50:20 -0400 nate-mbp.home (24727)] INFO : Finished instrumentation
+[2016-06-28 11:50:20 -0400 nate-mbp.home (24727)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 11:50:20 -0400 nate-mbp.home (24727)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 11:50:20 -0400 nate-mbp.home (24727)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 11:50:20 -0400 nate-mbp.home (24727)] INFO : Environment: development
+[2016-06-28 11:50:20 -0400 nate-mbp.home (24727)] INFO : Dispatcher: unicorn
+[2016-06-28 11:50:20 -0400 nate-mbp.home (24727)] INFO : Application: SlackRubyBotServer
+[2016-06-28 11:50:20 -0400 nate-mbp.home (24727)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 11:50:20 -0400 nate-mbp.home (24727)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-28 11:50:20 -0400 nate-mbp.home (24727)] INFO : Installing New Relic supported SlackRubyBot instrumentation
+[2016-06-28 11:50:20 -0400 nate-mbp.home (24727)] ERROR : Error while installing slack_ruby_bot_instrumentation instrumentation:
+[2016-06-28 11:50:20 -0400 nate-mbp.home (24727)] ERROR : NameError: undefined method `message' for class `SlackRubyBot::Server'
+[2016-06-28 12:36:33 -0400 nate-mbp.home (25447)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 12:36:33 -0400 nate-mbp.home (25447)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 12:36:33 -0400 nate-mbp.home (25447)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 12:36:33 -0400 nate-mbp.home (25447)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 12:36:33 -0400 nate-mbp.home (25447)] INFO : Environment: development
+[2016-06-28 12:36:33 -0400 nate-mbp.home (25447)] INFO : Dispatcher: unicorn
+[2016-06-28 12:36:33 -0400 nate-mbp.home (25447)] INFO : Application: SlackRubyBotServer
+[2016-06-28 12:36:33 -0400 nate-mbp.home (25447)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 12:36:33 -0400 nate-mbp.home (25447)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 12:36:33 -0400 nate-mbp.home (25447)] INFO : Installing Mongo instrumentation
+[2016-06-28 12:36:33 -0400 nate-mbp.home (25447)] INFO : Installing Net instrumentation
+[2016-06-28 12:36:33 -0400 nate-mbp.home (25447)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 12:36:33 -0400 nate-mbp.home (25447)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 12:36:33 -0400 nate-mbp.home (25447)] INFO : Finished instrumentation
+[2016-06-28 12:36:33 -0400 nate-mbp.home (25447)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 12:36:33 -0400 nate-mbp.home (25447)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 12:36:33 -0400 nate-mbp.home (25447)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 12:36:33 -0400 nate-mbp.home (25447)] INFO : Environment: development
+[2016-06-28 12:36:33 -0400 nate-mbp.home (25447)] INFO : Dispatcher: unicorn
+[2016-06-28 12:36:33 -0400 nate-mbp.home (25447)] INFO : Application: SlackRubyBotServer
+[2016-06-28 12:36:33 -0400 nate-mbp.home (25447)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 12:36:33 -0400 nate-mbp.home (25447)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-28 12:36:33 -0400 nate-mbp.home (25447)] INFO : Installing New Relic supported SlackRubyBot instrumentation
+[2016-06-28 12:36:33 -0400 nate-mbp.home (25447)] ERROR : Error while installing slack_ruby_bot_instrumentation instrumentation:
+[2016-06-28 12:36:33 -0400 nate-mbp.home (25447)] ERROR : NameError: undefined method `message' for class `SlackRubyBot::Server'
+[2016-06-28 12:37:35 -0400 nate-mbp.home (25462)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 12:37:35 -0400 nate-mbp.home (25462)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 12:37:35 -0400 nate-mbp.home (25462)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 12:37:35 -0400 nate-mbp.home (25462)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 12:37:35 -0400 nate-mbp.home (25462)] INFO : Environment: development
+[2016-06-28 12:37:35 -0400 nate-mbp.home (25462)] INFO : Dispatcher: unicorn
+[2016-06-28 12:37:35 -0400 nate-mbp.home (25462)] INFO : Application: SlackRubyBotServer
+[2016-06-28 12:37:35 -0400 nate-mbp.home (25462)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 12:37:35 -0400 nate-mbp.home (25462)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 12:37:35 -0400 nate-mbp.home (25462)] INFO : Installing Mongo instrumentation
+[2016-06-28 12:37:35 -0400 nate-mbp.home (25462)] INFO : Installing Net instrumentation
+[2016-06-28 12:37:35 -0400 nate-mbp.home (25462)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 12:37:35 -0400 nate-mbp.home (25462)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 12:37:35 -0400 nate-mbp.home (25462)] INFO : Finished instrumentation
+[2016-06-28 12:37:35 -0400 nate-mbp.home (25462)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 12:37:35 -0400 nate-mbp.home (25462)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 12:37:35 -0400 nate-mbp.home (25462)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 12:37:35 -0400 nate-mbp.home (25462)] INFO : Environment: development
+[2016-06-28 12:37:35 -0400 nate-mbp.home (25462)] INFO : Dispatcher: unicorn
+[2016-06-28 12:37:35 -0400 nate-mbp.home (25462)] INFO : Application: SlackRubyBotServer
+[2016-06-28 12:37:35 -0400 nate-mbp.home (25462)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 12:37:35 -0400 nate-mbp.home (25462)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-28 12:37:35 -0400 nate-mbp.home (25462)] INFO : Installing New Relic supported SlackRubyBot instrumentation
+[2016-06-28 12:37:35 -0400 nate-mbp.home (25462)] ERROR : Error while installing slack_ruby_bot_instrumentation instrumentation:
+[2016-06-28 12:37:35 -0400 nate-mbp.home (25462)] ERROR : NameError: undefined method `message' for class `SlackRubyBot::Server'
+[2016-06-28 12:38:37 -0400 nate-mbp.home (25479)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 12:38:37 -0400 nate-mbp.home (25479)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 12:38:37 -0400 nate-mbp.home (25479)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 12:38:37 -0400 nate-mbp.home (25479)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 12:38:37 -0400 nate-mbp.home (25479)] INFO : Environment: development
+[2016-06-28 12:38:37 -0400 nate-mbp.home (25479)] INFO : Dispatcher: unicorn
+[2016-06-28 12:38:37 -0400 nate-mbp.home (25479)] INFO : Application: SlackRubyBotServer
+[2016-06-28 12:38:37 -0400 nate-mbp.home (25479)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 12:38:37 -0400 nate-mbp.home (25479)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 12:38:37 -0400 nate-mbp.home (25479)] INFO : Installing Mongo instrumentation
+[2016-06-28 12:38:37 -0400 nate-mbp.home (25479)] INFO : Installing Net instrumentation
+[2016-06-28 12:38:37 -0400 nate-mbp.home (25479)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 12:38:37 -0400 nate-mbp.home (25479)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 12:38:37 -0400 nate-mbp.home (25479)] INFO : Finished instrumentation
+[2016-06-28 12:38:37 -0400 nate-mbp.home (25479)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 12:38:37 -0400 nate-mbp.home (25479)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 12:38:37 -0400 nate-mbp.home (25479)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 12:38:37 -0400 nate-mbp.home (25479)] INFO : Environment: development
+[2016-06-28 12:38:37 -0400 nate-mbp.home (25479)] INFO : Dispatcher: unicorn
+[2016-06-28 12:38:37 -0400 nate-mbp.home (25479)] INFO : Application: SlackRubyBotServer
+[2016-06-28 12:38:37 -0400 nate-mbp.home (25479)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 12:38:37 -0400 nate-mbp.home (25479)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-28 12:38:37 -0400 nate-mbp.home (25479)] INFO : Installing New Relic supported SlackRubyBot instrumentation
+[2016-06-28 12:38:37 -0400 nate-mbp.home (25479)] ERROR : Error while installing slack_ruby_bot_instrumentation instrumentation:
+[2016-06-28 12:38:37 -0400 nate-mbp.home (25479)] ERROR : NameError: undefined method `message' for class `SlackRubyBot::Server'
+[2016-06-28 12:43:26 -0400 nate-mbp.home (25588)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 12:43:26 -0400 nate-mbp.home (25588)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 12:43:26 -0400 nate-mbp.home (25588)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 12:43:26 -0400 nate-mbp.home (25588)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 12:43:26 -0400 nate-mbp.home (25588)] INFO : Environment: development
+[2016-06-28 12:43:26 -0400 nate-mbp.home (25588)] INFO : Dispatcher: unicorn
+[2016-06-28 12:43:26 -0400 nate-mbp.home (25588)] INFO : Application: SlackRubyBotServer
+[2016-06-28 12:43:26 -0400 nate-mbp.home (25588)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 12:43:26 -0400 nate-mbp.home (25588)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 12:43:26 -0400 nate-mbp.home (25588)] INFO : Installing Mongo instrumentation
+[2016-06-28 12:43:26 -0400 nate-mbp.home (25588)] INFO : Installing Net instrumentation
+[2016-06-28 12:43:26 -0400 nate-mbp.home (25588)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 12:43:26 -0400 nate-mbp.home (25588)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 12:43:26 -0400 nate-mbp.home (25588)] INFO : Finished instrumentation
+[2016-06-28 12:43:26 -0400 nate-mbp.home (25588)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 12:43:26 -0400 nate-mbp.home (25588)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 12:43:26 -0400 nate-mbp.home (25588)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 12:43:26 -0400 nate-mbp.home (25588)] INFO : Environment: development
+[2016-06-28 12:43:26 -0400 nate-mbp.home (25588)] INFO : Dispatcher: unicorn
+[2016-06-28 12:43:26 -0400 nate-mbp.home (25588)] INFO : Application: SlackRubyBotServer
+[2016-06-28 12:43:26 -0400 nate-mbp.home (25588)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 12:43:26 -0400 nate-mbp.home (25588)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-28 12:43:26 -0400 nate-mbp.home (25588)] INFO : Installing New Relic supported SlackRubyBot instrumentation
+[2016-06-28 12:43:26 -0400 nate-mbp.home (25588)] ERROR : Error while installing slack_ruby_bot_instrumentation instrumentation:
+[2016-06-28 12:43:26 -0400 nate-mbp.home (25588)] ERROR : NameError: undefined method `message' for class `SlackRubyBot::Server'
+[2016-06-28 12:51:37 -0400 nate-mbp.home (25724)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 12:51:37 -0400 nate-mbp.home (25724)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 12:51:37 -0400 nate-mbp.home (25724)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 12:51:37 -0400 nate-mbp.home (25724)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 12:51:37 -0400 nate-mbp.home (25724)] INFO : Environment: development
+[2016-06-28 12:51:37 -0400 nate-mbp.home (25724)] INFO : Dispatcher: unicorn
+[2016-06-28 12:51:37 -0400 nate-mbp.home (25724)] INFO : Application: SlackRubyBotServer
+[2016-06-28 12:51:37 -0400 nate-mbp.home (25724)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 12:51:37 -0400 nate-mbp.home (25724)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 12:51:37 -0400 nate-mbp.home (25724)] INFO : Installing Mongo instrumentation
+[2016-06-28 12:51:37 -0400 nate-mbp.home (25724)] INFO : Installing Net instrumentation
+[2016-06-28 12:51:37 -0400 nate-mbp.home (25724)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 12:51:37 -0400 nate-mbp.home (25724)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 12:51:37 -0400 nate-mbp.home (25724)] INFO : Finished instrumentation
+[2016-06-28 12:51:37 -0400 nate-mbp.home (25724)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 12:51:37 -0400 nate-mbp.home (25724)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 12:51:37 -0400 nate-mbp.home (25724)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 12:51:37 -0400 nate-mbp.home (25724)] INFO : Environment: development
+[2016-06-28 12:51:37 -0400 nate-mbp.home (25724)] INFO : Dispatcher: unicorn
+[2016-06-28 12:51:37 -0400 nate-mbp.home (25724)] INFO : Application: SlackRubyBotServer
+[2016-06-28 12:51:37 -0400 nate-mbp.home (25724)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 12:51:37 -0400 nate-mbp.home (25724)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-28 12:51:37 -0400 nate-mbp.home (25724)] INFO : Installing New Relic supported SlackRubyBot instrumentation
+[2016-06-28 12:51:37 -0400 nate-mbp.home (25724)] ERROR : Error while installing slack_ruby_bot_instrumentation instrumentation:
+[2016-06-28 12:51:37 -0400 nate-mbp.home (25724)] ERROR : NameError: undefined method `message' for class `SlackRubyBot::Server'
+[2016-06-28 12:53:01 -0400 nate-mbp.home (25772)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 12:53:01 -0400 nate-mbp.home (25772)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 12:53:01 -0400 nate-mbp.home (25772)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 12:53:01 -0400 nate-mbp.home (25772)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 12:53:01 -0400 nate-mbp.home (25772)] INFO : Environment: development
+[2016-06-28 12:53:01 -0400 nate-mbp.home (25772)] INFO : Dispatcher: unicorn
+[2016-06-28 12:53:01 -0400 nate-mbp.home (25772)] INFO : Application: SlackRubyBotServer
+[2016-06-28 12:53:01 -0400 nate-mbp.home (25772)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 12:53:01 -0400 nate-mbp.home (25772)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 12:53:01 -0400 nate-mbp.home (25772)] INFO : Installing Mongo instrumentation
+[2016-06-28 12:53:01 -0400 nate-mbp.home (25772)] INFO : Installing Net instrumentation
+[2016-06-28 12:53:01 -0400 nate-mbp.home (25772)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 12:53:01 -0400 nate-mbp.home (25772)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 12:53:01 -0400 nate-mbp.home (25772)] INFO : Finished instrumentation
+[2016-06-28 12:53:01 -0400 nate-mbp.home (25772)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 12:53:01 -0400 nate-mbp.home (25772)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 12:53:01 -0400 nate-mbp.home (25772)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 12:53:01 -0400 nate-mbp.home (25772)] INFO : Environment: development
+[2016-06-28 12:53:01 -0400 nate-mbp.home (25772)] INFO : Dispatcher: unicorn
+[2016-06-28 12:53:01 -0400 nate-mbp.home (25772)] INFO : Application: SlackRubyBotServer
+[2016-06-28 12:53:01 -0400 nate-mbp.home (25772)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 12:53:02 -0400 nate-mbp.home (25772)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-28 12:53:02 -0400 nate-mbp.home (25772)] INFO : Installing New Relic supported SlackRubyBot instrumentation
+[2016-06-28 12:53:02 -0400 nate-mbp.home (25772)] ERROR : Error while installing slack_ruby_bot_instrumentation instrumentation:
+[2016-06-28 12:53:02 -0400 nate-mbp.home (25772)] ERROR : NameError: undefined method `message' for class `SlackRubyBot::Server'
+[2016-06-28 12:57:22 -0400 nate-mbp.home (25854)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 12:57:22 -0400 nate-mbp.home (25854)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 12:57:22 -0400 nate-mbp.home (25854)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 12:57:22 -0400 nate-mbp.home (25854)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 12:57:22 -0400 nate-mbp.home (25854)] INFO : Environment: development
+[2016-06-28 12:57:22 -0400 nate-mbp.home (25854)] INFO : Dispatcher: unicorn
+[2016-06-28 12:57:22 -0400 nate-mbp.home (25854)] INFO : Application: SlackRubyBotServer
+[2016-06-28 12:57:22 -0400 nate-mbp.home (25854)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 12:57:22 -0400 nate-mbp.home (25854)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 12:57:22 -0400 nate-mbp.home (25854)] INFO : Installing Mongo instrumentation
+[2016-06-28 12:57:22 -0400 nate-mbp.home (25854)] INFO : Installing Net instrumentation
+[2016-06-28 12:57:22 -0400 nate-mbp.home (25854)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 12:57:22 -0400 nate-mbp.home (25854)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 12:57:22 -0400 nate-mbp.home (25854)] INFO : Finished instrumentation
+[2016-06-28 12:57:22 -0400 nate-mbp.home (25854)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 12:57:22 -0400 nate-mbp.home (25854)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 12:57:22 -0400 nate-mbp.home (25854)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 12:57:22 -0400 nate-mbp.home (25854)] INFO : Environment: development
+[2016-06-28 12:57:22 -0400 nate-mbp.home (25854)] INFO : Dispatcher: unicorn
+[2016-06-28 12:57:22 -0400 nate-mbp.home (25854)] INFO : Application: SlackRubyBotServer
+[2016-06-28 12:57:22 -0400 nate-mbp.home (25854)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 12:57:22 -0400 nate-mbp.home (25854)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-28 12:57:22 -0400 nate-mbp.home (25854)] INFO : Installing New Relic supported SlackRubyBot instrumentation
+[2016-06-28 12:57:22 -0400 nate-mbp.home (25854)] ERROR : Error while installing slack_ruby_bot_instrumentation instrumentation:
+[2016-06-28 12:57:22 -0400 nate-mbp.home (25854)] ERROR : NameError: undefined method `message' for class `SlackRubyBot::Server'
+[2016-06-28 13:03:17 -0400 nate-mbp.home (25954)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 13:03:17 -0400 nate-mbp.home (25954)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 13:03:17 -0400 nate-mbp.home (25954)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 13:03:17 -0400 nate-mbp.home (25954)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 13:03:17 -0400 nate-mbp.home (25954)] INFO : Environment: development
+[2016-06-28 13:03:17 -0400 nate-mbp.home (25954)] INFO : Dispatcher: unicorn
+[2016-06-28 13:03:17 -0400 nate-mbp.home (25954)] INFO : Application: SlackRubyBotServer
+[2016-06-28 13:03:17 -0400 nate-mbp.home (25954)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 13:03:17 -0400 nate-mbp.home (25954)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 13:03:17 -0400 nate-mbp.home (25954)] INFO : Installing Mongo instrumentation
+[2016-06-28 13:03:17 -0400 nate-mbp.home (25954)] INFO : Installing Net instrumentation
+[2016-06-28 13:03:17 -0400 nate-mbp.home (25954)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 13:03:17 -0400 nate-mbp.home (25954)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 13:03:17 -0400 nate-mbp.home (25954)] INFO : Finished instrumentation
+[2016-06-28 13:03:17 -0400 nate-mbp.home (25954)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 13:03:17 -0400 nate-mbp.home (25954)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 13:03:17 -0400 nate-mbp.home (25954)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 13:03:17 -0400 nate-mbp.home (25954)] INFO : Environment: development
+[2016-06-28 13:03:17 -0400 nate-mbp.home (25954)] INFO : Dispatcher: unicorn
+[2016-06-28 13:03:17 -0400 nate-mbp.home (25954)] INFO : Application: SlackRubyBotServer
+[2016-06-28 13:03:17 -0400 nate-mbp.home (25954)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 13:03:17 -0400 nate-mbp.home (25954)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-28 13:03:17 -0400 nate-mbp.home (25954)] INFO : Installing New Relic supported SlackRubyBot instrumentation
+[2016-06-28 13:03:17 -0400 nate-mbp.home (25954)] ERROR : Error while installing slack_ruby_bot_instrumentation instrumentation:
+[2016-06-28 13:03:17 -0400 nate-mbp.home (25954)] ERROR : NameError: undefined method `message' for class `SlackRubyBot::Server'
+[2016-06-28 13:27:05 -0400 nate-mbp.home (26287)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 13:27:05 -0400 nate-mbp.home (26287)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 13:27:05 -0400 nate-mbp.home (26287)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 13:27:05 -0400 nate-mbp.home (26287)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 13:27:05 -0400 nate-mbp.home (26287)] INFO : Environment: development
+[2016-06-28 13:27:05 -0400 nate-mbp.home (26287)] INFO : Dispatcher: unicorn
+[2016-06-28 13:27:05 -0400 nate-mbp.home (26287)] INFO : Application: SlackRubyBotServer
+[2016-06-28 13:27:05 -0400 nate-mbp.home (26287)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 13:27:05 -0400 nate-mbp.home (26287)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 13:27:05 -0400 nate-mbp.home (26287)] INFO : Installing Mongo instrumentation
+[2016-06-28 13:27:05 -0400 nate-mbp.home (26287)] INFO : Installing Net instrumentation
+[2016-06-28 13:27:05 -0400 nate-mbp.home (26287)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 13:27:05 -0400 nate-mbp.home (26287)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 13:27:05 -0400 nate-mbp.home (26287)] INFO : Finished instrumentation
+[2016-06-28 13:27:05 -0400 nate-mbp.home (26287)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 13:27:05 -0400 nate-mbp.home (26287)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 13:27:05 -0400 nate-mbp.home (26287)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 13:27:05 -0400 nate-mbp.home (26287)] INFO : Environment: development
+[2016-06-28 13:27:05 -0400 nate-mbp.home (26287)] INFO : Dispatcher: unicorn
+[2016-06-28 13:27:05 -0400 nate-mbp.home (26287)] INFO : Application: SlackRubyBotServer
+[2016-06-28 13:27:05 -0400 nate-mbp.home (26287)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 13:27:05 -0400 nate-mbp.home (26287)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-28 13:27:05 -0400 nate-mbp.home (26287)] INFO : Installing New Relic supported SlackRubyBot instrumentation
+[2016-06-28 13:27:05 -0400 nate-mbp.home (26287)] ERROR : Error while installing slack_ruby_bot_instrumentation instrumentation:
+[2016-06-28 13:27:05 -0400 nate-mbp.home (26287)] ERROR : NameError: undefined method `message' for class `SlackRubyBot::Server'
+[2016-06-28 13:27:42 -0400 nate-mbp.home (26329)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 13:27:42 -0400 nate-mbp.home (26329)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 13:27:42 -0400 nate-mbp.home (26329)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 13:27:42 -0400 nate-mbp.home (26329)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 13:27:42 -0400 nate-mbp.home (26329)] INFO : Environment: development
+[2016-06-28 13:27:42 -0400 nate-mbp.home (26329)] INFO : Dispatcher: unicorn
+[2016-06-28 13:27:42 -0400 nate-mbp.home (26329)] INFO : Application: SlackRubyBotServer
+[2016-06-28 13:27:42 -0400 nate-mbp.home (26329)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 13:27:42 -0400 nate-mbp.home (26329)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 13:27:42 -0400 nate-mbp.home (26329)] INFO : Installing Mongo instrumentation
+[2016-06-28 13:27:42 -0400 nate-mbp.home (26329)] INFO : Installing Net instrumentation
+[2016-06-28 13:27:42 -0400 nate-mbp.home (26329)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 13:27:42 -0400 nate-mbp.home (26329)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 13:27:42 -0400 nate-mbp.home (26329)] INFO : Finished instrumentation
+[2016-06-28 13:27:42 -0400 nate-mbp.home (26329)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 13:27:42 -0400 nate-mbp.home (26329)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 13:27:42 -0400 nate-mbp.home (26329)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 13:27:42 -0400 nate-mbp.home (26329)] INFO : Environment: development
+[2016-06-28 13:27:42 -0400 nate-mbp.home (26329)] INFO : Dispatcher: unicorn
+[2016-06-28 13:27:42 -0400 nate-mbp.home (26329)] INFO : Application: SlackRubyBotServer
+[2016-06-28 13:27:42 -0400 nate-mbp.home (26329)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 13:27:42 -0400 nate-mbp.home (26329)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-28 13:27:42 -0400 nate-mbp.home (26329)] INFO : Installing New Relic supported SlackRubyBot instrumentation
+[2016-06-28 13:27:42 -0400 nate-mbp.home (26329)] ERROR : Error while installing slack_ruby_bot_instrumentation instrumentation:
+[2016-06-28 13:27:42 -0400 nate-mbp.home (26329)] ERROR : NameError: undefined method `message' for class `SlackRubyBot::Server'
+[2016-06-28 13:35:33 -0400 nate-mbp.home (26458)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 13:35:33 -0400 nate-mbp.home (26458)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 13:35:33 -0400 nate-mbp.home (26458)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 13:35:33 -0400 nate-mbp.home (26458)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 13:35:33 -0400 nate-mbp.home (26458)] INFO : Environment: development
+[2016-06-28 13:35:33 -0400 nate-mbp.home (26458)] INFO : Dispatcher: unicorn
+[2016-06-28 13:35:33 -0400 nate-mbp.home (26458)] INFO : Application: SlackRubyBotServer
+[2016-06-28 13:35:33 -0400 nate-mbp.home (26458)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 13:35:33 -0400 nate-mbp.home (26458)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 13:35:33 -0400 nate-mbp.home (26458)] INFO : Installing Mongo instrumentation
+[2016-06-28 13:35:33 -0400 nate-mbp.home (26458)] INFO : Installing Net instrumentation
+[2016-06-28 13:35:33 -0400 nate-mbp.home (26458)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 13:35:33 -0400 nate-mbp.home (26458)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 13:35:33 -0400 nate-mbp.home (26458)] INFO : Finished instrumentation
+[2016-06-28 13:35:34 -0400 nate-mbp.home (26465)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 13:35:34 -0400 nate-mbp.home (26465)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 13:35:34 -0400 nate-mbp.home (26465)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 13:35:34 -0400 nate-mbp.home (26465)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 13:35:34 -0400 nate-mbp.home (26465)] INFO : Environment: development
+[2016-06-28 13:35:34 -0400 nate-mbp.home (26465)] INFO : Dispatcher: unicorn
+[2016-06-28 13:35:34 -0400 nate-mbp.home (26465)] INFO : Application: SlackRubyBotServer
+[2016-06-28 13:35:34 -0400 nate-mbp.home (26465)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 13:35:34 -0400 nate-mbp.home (26465)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 13:35:34 -0400 nate-mbp.home (26465)] INFO : Installing Mongo instrumentation
+[2016-06-28 13:35:34 -0400 nate-mbp.home (26465)] INFO : Installing Net instrumentation
+[2016-06-28 13:35:34 -0400 nate-mbp.home (26465)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 13:35:34 -0400 nate-mbp.home (26465)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 13:35:35 -0400 nate-mbp.home (26465)] INFO : Finished instrumentation
+[2016-06-28 13:35:36 -0400 nate-mbp.home (26471)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 13:35:36 -0400 nate-mbp.home (26471)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 13:35:36 -0400 nate-mbp.home (26471)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 13:35:36 -0400 nate-mbp.home (26471)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 13:35:36 -0400 nate-mbp.home (26471)] INFO : Environment: development
+[2016-06-28 13:35:36 -0400 nate-mbp.home (26471)] INFO : Dispatcher: unicorn
+[2016-06-28 13:35:36 -0400 nate-mbp.home (26471)] INFO : Application: SlackRubyBotServer
+[2016-06-28 13:35:36 -0400 nate-mbp.home (26471)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 13:35:36 -0400 nate-mbp.home (26471)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 13:35:36 -0400 nate-mbp.home (26471)] INFO : Installing Mongo instrumentation
+[2016-06-28 13:35:36 -0400 nate-mbp.home (26471)] INFO : Installing Net instrumentation
+[2016-06-28 13:35:36 -0400 nate-mbp.home (26471)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 13:35:36 -0400 nate-mbp.home (26471)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 13:35:36 -0400 nate-mbp.home (26471)] INFO : Finished instrumentation
+[2016-06-28 13:35:37 -0400 nate-mbp.home (26478)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 13:35:37 -0400 nate-mbp.home (26478)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 13:35:37 -0400 nate-mbp.home (26478)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 13:35:37 -0400 nate-mbp.home (26478)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 13:35:37 -0400 nate-mbp.home (26478)] INFO : Environment: development
+[2016-06-28 13:35:37 -0400 nate-mbp.home (26478)] INFO : Dispatcher: unicorn
+[2016-06-28 13:35:37 -0400 nate-mbp.home (26478)] INFO : Application: SlackRubyBotServer
+[2016-06-28 13:35:37 -0400 nate-mbp.home (26478)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 13:35:37 -0400 nate-mbp.home (26478)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 13:35:37 -0400 nate-mbp.home (26478)] INFO : Installing Mongo instrumentation
+[2016-06-28 13:35:37 -0400 nate-mbp.home (26478)] INFO : Installing Net instrumentation
+[2016-06-28 13:35:37 -0400 nate-mbp.home (26478)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 13:35:37 -0400 nate-mbp.home (26478)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 13:35:37 -0400 nate-mbp.home (26478)] INFO : Finished instrumentation
+[2016-06-28 13:35:38 -0400 nate-mbp.home (26485)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 13:35:38 -0400 nate-mbp.home (26485)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 13:35:38 -0400 nate-mbp.home (26485)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 13:35:38 -0400 nate-mbp.home (26485)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 13:35:38 -0400 nate-mbp.home (26485)] INFO : Environment: development
+[2016-06-28 13:35:38 -0400 nate-mbp.home (26485)] INFO : Dispatcher: unicorn
+[2016-06-28 13:35:38 -0400 nate-mbp.home (26485)] INFO : Application: SlackRubyBotServer
+[2016-06-28 13:35:38 -0400 nate-mbp.home (26485)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 13:35:38 -0400 nate-mbp.home (26485)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 13:35:38 -0400 nate-mbp.home (26485)] INFO : Installing Mongo instrumentation
+[2016-06-28 13:35:38 -0400 nate-mbp.home (26485)] INFO : Installing Net instrumentation
+[2016-06-28 13:35:38 -0400 nate-mbp.home (26485)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 13:35:38 -0400 nate-mbp.home (26485)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 13:35:38 -0400 nate-mbp.home (26485)] INFO : Finished instrumentation
+[2016-06-28 13:35:39 -0400 nate-mbp.home (26491)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 13:35:39 -0400 nate-mbp.home (26491)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 13:35:39 -0400 nate-mbp.home (26491)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 13:35:39 -0400 nate-mbp.home (26491)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 13:35:39 -0400 nate-mbp.home (26491)] INFO : Environment: development
+[2016-06-28 13:35:39 -0400 nate-mbp.home (26491)] INFO : Dispatcher: unicorn
+[2016-06-28 13:35:39 -0400 nate-mbp.home (26491)] INFO : Application: SlackRubyBotServer
+[2016-06-28 13:35:39 -0400 nate-mbp.home (26491)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 13:35:39 -0400 nate-mbp.home (26491)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 13:35:39 -0400 nate-mbp.home (26491)] INFO : Installing Mongo instrumentation
+[2016-06-28 13:35:39 -0400 nate-mbp.home (26491)] INFO : Installing Net instrumentation
+[2016-06-28 13:35:39 -0400 nate-mbp.home (26491)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 13:35:39 -0400 nate-mbp.home (26491)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 13:35:39 -0400 nate-mbp.home (26491)] INFO : Finished instrumentation
+[2016-06-28 13:35:41 -0400 nate-mbp.home (26497)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 13:35:41 -0400 nate-mbp.home (26497)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 13:35:41 -0400 nate-mbp.home (26497)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 13:35:41 -0400 nate-mbp.home (26497)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 13:35:41 -0400 nate-mbp.home (26497)] INFO : Environment: development
+[2016-06-28 13:35:41 -0400 nate-mbp.home (26497)] INFO : Dispatcher: unicorn
+[2016-06-28 13:35:41 -0400 nate-mbp.home (26497)] INFO : Application: SlackRubyBotServer
+[2016-06-28 13:35:41 -0400 nate-mbp.home (26497)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 13:35:41 -0400 nate-mbp.home (26497)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 13:35:41 -0400 nate-mbp.home (26497)] INFO : Installing Mongo instrumentation
+[2016-06-28 13:35:41 -0400 nate-mbp.home (26497)] INFO : Installing Net instrumentation
+[2016-06-28 13:35:41 -0400 nate-mbp.home (26497)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 13:35:41 -0400 nate-mbp.home (26497)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 13:35:41 -0400 nate-mbp.home (26497)] INFO : Finished instrumentation
+[2016-06-28 13:35:42 -0400 nate-mbp.home (26503)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 13:35:42 -0400 nate-mbp.home (26503)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 13:35:42 -0400 nate-mbp.home (26503)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 13:35:42 -0400 nate-mbp.home (26503)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 13:35:42 -0400 nate-mbp.home (26503)] INFO : Environment: development
+[2016-06-28 13:35:42 -0400 nate-mbp.home (26503)] INFO : Dispatcher: unicorn
+[2016-06-28 13:35:42 -0400 nate-mbp.home (26503)] INFO : Application: SlackRubyBotServer
+[2016-06-28 13:35:42 -0400 nate-mbp.home (26503)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 13:35:42 -0400 nate-mbp.home (26503)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 13:35:42 -0400 nate-mbp.home (26503)] INFO : Installing Mongo instrumentation
+[2016-06-28 13:35:42 -0400 nate-mbp.home (26503)] INFO : Installing Net instrumentation
+[2016-06-28 13:35:42 -0400 nate-mbp.home (26503)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 13:35:42 -0400 nate-mbp.home (26503)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 13:35:42 -0400 nate-mbp.home (26503)] INFO : Finished instrumentation
+[2016-06-28 13:35:43 -0400 nate-mbp.home (26509)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 13:35:43 -0400 nate-mbp.home (26509)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 13:35:43 -0400 nate-mbp.home (26509)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 13:35:43 -0400 nate-mbp.home (26509)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 13:35:43 -0400 nate-mbp.home (26509)] INFO : Environment: development
+[2016-06-28 13:35:43 -0400 nate-mbp.home (26509)] INFO : Dispatcher: unicorn
+[2016-06-28 13:35:43 -0400 nate-mbp.home (26509)] INFO : Application: SlackRubyBotServer
+[2016-06-28 13:35:43 -0400 nate-mbp.home (26509)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 13:35:43 -0400 nate-mbp.home (26509)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 13:35:43 -0400 nate-mbp.home (26509)] INFO : Installing Mongo instrumentation
+[2016-06-28 13:35:43 -0400 nate-mbp.home (26509)] INFO : Installing Net instrumentation
+[2016-06-28 13:35:43 -0400 nate-mbp.home (26509)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 13:35:43 -0400 nate-mbp.home (26509)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 13:35:43 -0400 nate-mbp.home (26509)] INFO : Finished instrumentation
+[2016-06-28 13:35:44 -0400 nate-mbp.home (26515)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 13:35:44 -0400 nate-mbp.home (26515)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 13:35:44 -0400 nate-mbp.home (26515)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 13:35:44 -0400 nate-mbp.home (26515)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 13:35:44 -0400 nate-mbp.home (26515)] INFO : Environment: development
+[2016-06-28 13:35:44 -0400 nate-mbp.home (26515)] INFO : Dispatcher: unicorn
+[2016-06-28 13:35:44 -0400 nate-mbp.home (26515)] INFO : Application: SlackRubyBotServer
+[2016-06-28 13:35:44 -0400 nate-mbp.home (26515)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 13:35:44 -0400 nate-mbp.home (26515)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 13:35:44 -0400 nate-mbp.home (26515)] INFO : Installing Mongo instrumentation
+[2016-06-28 13:35:44 -0400 nate-mbp.home (26515)] INFO : Installing Net instrumentation
+[2016-06-28 13:35:44 -0400 nate-mbp.home (26515)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 13:35:44 -0400 nate-mbp.home (26515)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 13:35:44 -0400 nate-mbp.home (26515)] INFO : Finished instrumentation
+[2016-06-28 13:35:45 -0400 nate-mbp.home (26521)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 13:35:45 -0400 nate-mbp.home (26521)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 13:35:45 -0400 nate-mbp.home (26521)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 13:35:45 -0400 nate-mbp.home (26521)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 13:35:45 -0400 nate-mbp.home (26521)] INFO : Environment: development
+[2016-06-28 13:35:45 -0400 nate-mbp.home (26521)] INFO : Dispatcher: unicorn
+[2016-06-28 13:35:45 -0400 nate-mbp.home (26521)] INFO : Application: SlackRubyBotServer
+[2016-06-28 13:35:45 -0400 nate-mbp.home (26521)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 13:35:45 -0400 nate-mbp.home (26521)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 13:35:45 -0400 nate-mbp.home (26521)] INFO : Installing Mongo instrumentation
+[2016-06-28 13:35:45 -0400 nate-mbp.home (26521)] INFO : Installing Net instrumentation
+[2016-06-28 13:35:45 -0400 nate-mbp.home (26521)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 13:35:45 -0400 nate-mbp.home (26521)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 13:35:45 -0400 nate-mbp.home (26521)] INFO : Finished instrumentation
+[2016-06-28 13:35:47 -0400 nate-mbp.home (26527)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 13:35:47 -0400 nate-mbp.home (26527)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 13:35:47 -0400 nate-mbp.home (26527)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 13:35:47 -0400 nate-mbp.home (26527)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 13:35:47 -0400 nate-mbp.home (26527)] INFO : Environment: development
+[2016-06-28 13:35:47 -0400 nate-mbp.home (26527)] INFO : Dispatcher: unicorn
+[2016-06-28 13:35:47 -0400 nate-mbp.home (26527)] INFO : Application: SlackRubyBotServer
+[2016-06-28 13:35:47 -0400 nate-mbp.home (26527)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 13:35:47 -0400 nate-mbp.home (26527)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 13:35:47 -0400 nate-mbp.home (26527)] INFO : Installing Mongo instrumentation
+[2016-06-28 13:35:47 -0400 nate-mbp.home (26527)] INFO : Installing Net instrumentation
+[2016-06-28 13:35:47 -0400 nate-mbp.home (26527)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 13:35:47 -0400 nate-mbp.home (26527)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 13:35:47 -0400 nate-mbp.home (26527)] INFO : Finished instrumentation
+[2016-06-28 13:35:48 -0400 nate-mbp.home (26534)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 13:35:48 -0400 nate-mbp.home (26534)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 13:35:48 -0400 nate-mbp.home (26534)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 13:35:48 -0400 nate-mbp.home (26534)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 13:35:48 -0400 nate-mbp.home (26534)] INFO : Environment: development
+[2016-06-28 13:35:48 -0400 nate-mbp.home (26534)] INFO : Dispatcher: unicorn
+[2016-06-28 13:35:48 -0400 nate-mbp.home (26534)] INFO : Application: SlackRubyBotServer
+[2016-06-28 13:35:48 -0400 nate-mbp.home (26534)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 13:35:48 -0400 nate-mbp.home (26534)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 13:35:48 -0400 nate-mbp.home (26534)] INFO : Installing Mongo instrumentation
+[2016-06-28 13:35:48 -0400 nate-mbp.home (26534)] INFO : Installing Net instrumentation
+[2016-06-28 13:35:48 -0400 nate-mbp.home (26534)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 13:35:48 -0400 nate-mbp.home (26534)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 13:35:48 -0400 nate-mbp.home (26534)] INFO : Finished instrumentation
+[2016-06-28 13:35:49 -0400 nate-mbp.home (26541)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 13:35:49 -0400 nate-mbp.home (26541)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 13:35:49 -0400 nate-mbp.home (26541)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 13:35:49 -0400 nate-mbp.home (26541)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 13:35:49 -0400 nate-mbp.home (26541)] INFO : Environment: development
+[2016-06-28 13:35:49 -0400 nate-mbp.home (26541)] INFO : Dispatcher: unicorn
+[2016-06-28 13:35:49 -0400 nate-mbp.home (26541)] INFO : Application: SlackRubyBotServer
+[2016-06-28 13:35:49 -0400 nate-mbp.home (26541)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 13:35:49 -0400 nate-mbp.home (26541)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 13:35:49 -0400 nate-mbp.home (26541)] INFO : Installing Mongo instrumentation
+[2016-06-28 13:35:49 -0400 nate-mbp.home (26541)] INFO : Installing Net instrumentation
+[2016-06-28 13:35:49 -0400 nate-mbp.home (26541)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 13:35:49 -0400 nate-mbp.home (26541)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 13:35:49 -0400 nate-mbp.home (26541)] INFO : Finished instrumentation
+[2016-06-28 13:35:50 -0400 nate-mbp.home (26547)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 13:35:50 -0400 nate-mbp.home (26547)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 13:35:50 -0400 nate-mbp.home (26547)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 13:35:50 -0400 nate-mbp.home (26547)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 13:35:50 -0400 nate-mbp.home (26547)] INFO : Environment: development
+[2016-06-28 13:35:50 -0400 nate-mbp.home (26547)] INFO : Dispatcher: unicorn
+[2016-06-28 13:35:50 -0400 nate-mbp.home (26547)] INFO : Application: SlackRubyBotServer
+[2016-06-28 13:35:50 -0400 nate-mbp.home (26547)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 13:35:50 -0400 nate-mbp.home (26547)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 13:35:50 -0400 nate-mbp.home (26547)] INFO : Installing Mongo instrumentation
+[2016-06-28 13:35:50 -0400 nate-mbp.home (26547)] INFO : Installing Net instrumentation
+[2016-06-28 13:35:50 -0400 nate-mbp.home (26547)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 13:35:50 -0400 nate-mbp.home (26547)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 13:35:50 -0400 nate-mbp.home (26547)] INFO : Finished instrumentation
+[2016-06-28 13:35:51 -0400 nate-mbp.home (26553)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 13:35:51 -0400 nate-mbp.home (26553)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 13:35:51 -0400 nate-mbp.home (26553)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 13:35:51 -0400 nate-mbp.home (26553)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 13:35:51 -0400 nate-mbp.home (26553)] INFO : Environment: development
+[2016-06-28 13:35:51 -0400 nate-mbp.home (26553)] INFO : Dispatcher: unicorn
+[2016-06-28 13:35:51 -0400 nate-mbp.home (26553)] INFO : Application: SlackRubyBotServer
+[2016-06-28 13:35:51 -0400 nate-mbp.home (26553)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 13:35:51 -0400 nate-mbp.home (26553)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 13:35:51 -0400 nate-mbp.home (26553)] INFO : Installing Mongo instrumentation
+[2016-06-28 13:35:51 -0400 nate-mbp.home (26553)] INFO : Installing Net instrumentation
+[2016-06-28 13:35:51 -0400 nate-mbp.home (26553)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 13:35:51 -0400 nate-mbp.home (26553)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 13:35:51 -0400 nate-mbp.home (26553)] INFO : Finished instrumentation
+[2016-06-28 13:35:53 -0400 nate-mbp.home (26586)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 13:35:53 -0400 nate-mbp.home (26586)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 13:35:53 -0400 nate-mbp.home (26586)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 13:35:53 -0400 nate-mbp.home (26586)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 13:35:53 -0400 nate-mbp.home (26586)] INFO : Environment: development
+[2016-06-28 13:35:53 -0400 nate-mbp.home (26586)] INFO : Dispatcher: unicorn
+[2016-06-28 13:35:53 -0400 nate-mbp.home (26586)] INFO : Application: SlackRubyBotServer
+[2016-06-28 13:35:53 -0400 nate-mbp.home (26586)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 13:35:53 -0400 nate-mbp.home (26586)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 13:35:53 -0400 nate-mbp.home (26586)] INFO : Installing Mongo instrumentation
+[2016-06-28 13:35:53 -0400 nate-mbp.home (26586)] INFO : Installing Net instrumentation
+[2016-06-28 13:35:53 -0400 nate-mbp.home (26586)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 13:35:53 -0400 nate-mbp.home (26586)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 13:35:53 -0400 nate-mbp.home (26586)] INFO : Finished instrumentation
+[2016-06-28 13:35:54 -0400 nate-mbp.home (26595)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 13:35:54 -0400 nate-mbp.home (26595)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 13:35:54 -0400 nate-mbp.home (26595)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 13:35:54 -0400 nate-mbp.home (26595)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 13:35:54 -0400 nate-mbp.home (26595)] INFO : Environment: development
+[2016-06-28 13:35:54 -0400 nate-mbp.home (26595)] INFO : Dispatcher: unicorn
+[2016-06-28 13:35:54 -0400 nate-mbp.home (26595)] INFO : Application: SlackRubyBotServer
+[2016-06-28 13:35:54 -0400 nate-mbp.home (26595)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 13:35:54 -0400 nate-mbp.home (26595)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 13:35:54 -0400 nate-mbp.home (26595)] INFO : Installing Mongo instrumentation
+[2016-06-28 13:35:54 -0400 nate-mbp.home (26595)] INFO : Installing Net instrumentation
+[2016-06-28 13:35:54 -0400 nate-mbp.home (26595)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 13:35:54 -0400 nate-mbp.home (26595)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 13:35:54 -0400 nate-mbp.home (26595)] INFO : Finished instrumentation
+[2016-06-28 13:35:55 -0400 nate-mbp.home (26602)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 13:35:55 -0400 nate-mbp.home (26602)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 13:35:55 -0400 nate-mbp.home (26602)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 13:35:55 -0400 nate-mbp.home (26602)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 13:35:55 -0400 nate-mbp.home (26602)] INFO : Environment: development
+[2016-06-28 13:35:55 -0400 nate-mbp.home (26602)] INFO : Dispatcher: unicorn
+[2016-06-28 13:35:55 -0400 nate-mbp.home (26602)] INFO : Application: SlackRubyBotServer
+[2016-06-28 13:35:55 -0400 nate-mbp.home (26602)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 13:35:55 -0400 nate-mbp.home (26602)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 13:35:55 -0400 nate-mbp.home (26602)] INFO : Installing Mongo instrumentation
+[2016-06-28 13:35:55 -0400 nate-mbp.home (26602)] INFO : Installing Net instrumentation
+[2016-06-28 13:35:55 -0400 nate-mbp.home (26602)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 13:35:55 -0400 nate-mbp.home (26602)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 13:35:55 -0400 nate-mbp.home (26602)] INFO : Finished instrumentation
+[2016-06-28 13:35:56 -0400 nate-mbp.home (26608)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 13:35:56 -0400 nate-mbp.home (26608)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 13:35:56 -0400 nate-mbp.home (26608)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 13:35:56 -0400 nate-mbp.home (26608)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 13:35:56 -0400 nate-mbp.home (26608)] INFO : Environment: development
+[2016-06-28 13:35:56 -0400 nate-mbp.home (26608)] INFO : Dispatcher: unicorn
+[2016-06-28 13:35:56 -0400 nate-mbp.home (26608)] INFO : Application: SlackRubyBotServer
+[2016-06-28 13:35:56 -0400 nate-mbp.home (26608)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 13:35:56 -0400 nate-mbp.home (26608)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 13:35:56 -0400 nate-mbp.home (26608)] INFO : Installing Mongo instrumentation
+[2016-06-28 13:35:56 -0400 nate-mbp.home (26608)] INFO : Installing Net instrumentation
+[2016-06-28 13:35:56 -0400 nate-mbp.home (26608)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 13:35:56 -0400 nate-mbp.home (26608)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 13:35:56 -0400 nate-mbp.home (26608)] INFO : Finished instrumentation
+[2016-06-28 13:35:57 -0400 nate-mbp.home (26614)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 13:35:57 -0400 nate-mbp.home (26614)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 13:35:57 -0400 nate-mbp.home (26614)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 13:35:57 -0400 nate-mbp.home (26614)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 13:35:57 -0400 nate-mbp.home (26614)] INFO : Environment: development
+[2016-06-28 13:35:57 -0400 nate-mbp.home (26614)] INFO : Dispatcher: unicorn
+[2016-06-28 13:35:57 -0400 nate-mbp.home (26614)] INFO : Application: SlackRubyBotServer
+[2016-06-28 13:35:57 -0400 nate-mbp.home (26614)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 13:35:57 -0400 nate-mbp.home (26614)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 13:35:57 -0400 nate-mbp.home (26614)] INFO : Installing Mongo instrumentation
+[2016-06-28 13:35:57 -0400 nate-mbp.home (26614)] INFO : Installing Net instrumentation
+[2016-06-28 13:35:57 -0400 nate-mbp.home (26614)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 13:35:57 -0400 nate-mbp.home (26614)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 13:35:57 -0400 nate-mbp.home (26614)] INFO : Finished instrumentation
+[2016-06-28 13:35:59 -0400 nate-mbp.home (26621)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 13:35:59 -0400 nate-mbp.home (26621)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 13:35:59 -0400 nate-mbp.home (26621)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 13:35:59 -0400 nate-mbp.home (26621)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 13:35:59 -0400 nate-mbp.home (26621)] INFO : Environment: development
+[2016-06-28 13:35:59 -0400 nate-mbp.home (26621)] INFO : Dispatcher: unicorn
+[2016-06-28 13:35:59 -0400 nate-mbp.home (26621)] INFO : Application: SlackRubyBotServer
+[2016-06-28 13:35:59 -0400 nate-mbp.home (26621)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 13:35:59 -0400 nate-mbp.home (26621)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 13:35:59 -0400 nate-mbp.home (26621)] INFO : Installing Mongo instrumentation
+[2016-06-28 13:35:59 -0400 nate-mbp.home (26621)] INFO : Installing Net instrumentation
+[2016-06-28 13:35:59 -0400 nate-mbp.home (26621)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 13:35:59 -0400 nate-mbp.home (26621)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 13:35:59 -0400 nate-mbp.home (26621)] INFO : Finished instrumentation
+[2016-06-28 13:36:00 -0400 nate-mbp.home (26627)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 13:36:00 -0400 nate-mbp.home (26627)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 13:36:00 -0400 nate-mbp.home (26627)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 13:36:00 -0400 nate-mbp.home (26627)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 13:36:00 -0400 nate-mbp.home (26627)] INFO : Environment: development
+[2016-06-28 13:36:00 -0400 nate-mbp.home (26627)] INFO : Dispatcher: unicorn
+[2016-06-28 13:36:00 -0400 nate-mbp.home (26627)] INFO : Application: SlackRubyBotServer
+[2016-06-28 13:36:00 -0400 nate-mbp.home (26627)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 13:36:00 -0400 nate-mbp.home (26627)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 13:36:00 -0400 nate-mbp.home (26627)] INFO : Installing Mongo instrumentation
+[2016-06-28 13:36:00 -0400 nate-mbp.home (26627)] INFO : Installing Net instrumentation
+[2016-06-28 13:36:00 -0400 nate-mbp.home (26627)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 13:36:00 -0400 nate-mbp.home (26627)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 13:36:00 -0400 nate-mbp.home (26627)] INFO : Finished instrumentation
+[2016-06-28 13:36:01 -0400 nate-mbp.home (26633)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 13:36:01 -0400 nate-mbp.home (26633)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 13:36:01 -0400 nate-mbp.home (26633)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 13:36:01 -0400 nate-mbp.home (26633)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 13:36:01 -0400 nate-mbp.home (26633)] INFO : Environment: development
+[2016-06-28 13:36:01 -0400 nate-mbp.home (26633)] INFO : Dispatcher: unicorn
+[2016-06-28 13:36:01 -0400 nate-mbp.home (26633)] INFO : Application: SlackRubyBotServer
+[2016-06-28 13:36:01 -0400 nate-mbp.home (26633)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 13:36:01 -0400 nate-mbp.home (26633)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 13:36:01 -0400 nate-mbp.home (26633)] INFO : Installing Mongo instrumentation
+[2016-06-28 13:36:01 -0400 nate-mbp.home (26633)] INFO : Installing Net instrumentation
+[2016-06-28 13:36:01 -0400 nate-mbp.home (26633)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 13:36:01 -0400 nate-mbp.home (26633)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 13:36:01 -0400 nate-mbp.home (26633)] INFO : Finished instrumentation
+[2016-06-28 13:36:02 -0400 nate-mbp.home (26639)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 13:36:02 -0400 nate-mbp.home (26639)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 13:36:02 -0400 nate-mbp.home (26639)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 13:36:02 -0400 nate-mbp.home (26639)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 13:36:02 -0400 nate-mbp.home (26639)] INFO : Environment: development
+[2016-06-28 13:36:02 -0400 nate-mbp.home (26639)] INFO : Dispatcher: unicorn
+[2016-06-28 13:36:02 -0400 nate-mbp.home (26639)] INFO : Application: SlackRubyBotServer
+[2016-06-28 13:36:02 -0400 nate-mbp.home (26639)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 13:36:02 -0400 nate-mbp.home (26639)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 13:36:02 -0400 nate-mbp.home (26639)] INFO : Installing Mongo instrumentation
+[2016-06-28 13:36:02 -0400 nate-mbp.home (26639)] INFO : Installing Net instrumentation
+[2016-06-28 13:36:02 -0400 nate-mbp.home (26639)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 13:36:02 -0400 nate-mbp.home (26639)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 13:36:02 -0400 nate-mbp.home (26639)] INFO : Finished instrumentation
+[2016-06-28 13:36:03 -0400 nate-mbp.home (26646)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 13:36:03 -0400 nate-mbp.home (26646)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 13:36:03 -0400 nate-mbp.home (26646)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 13:36:03 -0400 nate-mbp.home (26646)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 13:36:03 -0400 nate-mbp.home (26646)] INFO : Environment: development
+[2016-06-28 13:36:03 -0400 nate-mbp.home (26646)] INFO : Dispatcher: unicorn
+[2016-06-28 13:36:03 -0400 nate-mbp.home (26646)] INFO : Application: SlackRubyBotServer
+[2016-06-28 13:36:03 -0400 nate-mbp.home (26646)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 13:36:03 -0400 nate-mbp.home (26646)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 13:36:03 -0400 nate-mbp.home (26646)] INFO : Installing Mongo instrumentation
+[2016-06-28 13:36:03 -0400 nate-mbp.home (26646)] INFO : Installing Net instrumentation
+[2016-06-28 13:36:03 -0400 nate-mbp.home (26646)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 13:36:03 -0400 nate-mbp.home (26646)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 13:36:03 -0400 nate-mbp.home (26646)] INFO : Finished instrumentation
+[2016-06-28 13:36:05 -0400 nate-mbp.home (26652)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 13:36:05 -0400 nate-mbp.home (26652)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 13:36:05 -0400 nate-mbp.home (26652)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 13:36:05 -0400 nate-mbp.home (26652)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 13:36:05 -0400 nate-mbp.home (26652)] INFO : Environment: development
+[2016-06-28 13:36:05 -0400 nate-mbp.home (26652)] INFO : Dispatcher: unicorn
+[2016-06-28 13:36:05 -0400 nate-mbp.home (26652)] INFO : Application: SlackRubyBotServer
+[2016-06-28 13:36:05 -0400 nate-mbp.home (26652)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 13:36:05 -0400 nate-mbp.home (26652)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 13:36:05 -0400 nate-mbp.home (26652)] INFO : Installing Mongo instrumentation
+[2016-06-28 13:36:05 -0400 nate-mbp.home (26652)] INFO : Installing Net instrumentation
+[2016-06-28 13:36:05 -0400 nate-mbp.home (26652)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 13:36:05 -0400 nate-mbp.home (26652)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 13:36:05 -0400 nate-mbp.home (26652)] INFO : Finished instrumentation
+[2016-06-28 13:36:06 -0400 nate-mbp.home (26658)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 13:36:06 -0400 nate-mbp.home (26658)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 13:36:06 -0400 nate-mbp.home (26658)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 13:36:06 -0400 nate-mbp.home (26658)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 13:36:06 -0400 nate-mbp.home (26658)] INFO : Environment: development
+[2016-06-28 13:36:06 -0400 nate-mbp.home (26658)] INFO : Dispatcher: unicorn
+[2016-06-28 13:36:06 -0400 nate-mbp.home (26658)] INFO : Application: SlackRubyBotServer
+[2016-06-28 13:36:06 -0400 nate-mbp.home (26658)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 13:36:06 -0400 nate-mbp.home (26658)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 13:36:06 -0400 nate-mbp.home (26658)] INFO : Installing Mongo instrumentation
+[2016-06-28 13:36:06 -0400 nate-mbp.home (26658)] INFO : Installing Net instrumentation
+[2016-06-28 13:36:06 -0400 nate-mbp.home (26658)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 13:36:06 -0400 nate-mbp.home (26658)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 13:36:06 -0400 nate-mbp.home (26658)] INFO : Finished instrumentation
+[2016-06-28 13:38:26 -0400 nate-mbp.home (26878)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 13:38:26 -0400 nate-mbp.home (26878)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 13:38:26 -0400 nate-mbp.home (26878)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 13:38:26 -0400 nate-mbp.home (26878)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 13:38:26 -0400 nate-mbp.home (26878)] INFO : Environment: development
+[2016-06-28 13:38:26 -0400 nate-mbp.home (26878)] INFO : Dispatcher: unicorn
+[2016-06-28 13:38:26 -0400 nate-mbp.home (26878)] INFO : Application: SlackRubyBotServer
+[2016-06-28 13:38:26 -0400 nate-mbp.home (26878)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 13:38:26 -0400 nate-mbp.home (26878)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 13:38:26 -0400 nate-mbp.home (26878)] INFO : Installing Mongo instrumentation
+[2016-06-28 13:38:26 -0400 nate-mbp.home (26878)] INFO : Installing Net instrumentation
+[2016-06-28 13:38:26 -0400 nate-mbp.home (26878)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 13:38:26 -0400 nate-mbp.home (26878)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 13:38:26 -0400 nate-mbp.home (26878)] INFO : Finished instrumentation
+[2016-06-28 13:38:27 -0400 nate-mbp.home (26884)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 13:38:27 -0400 nate-mbp.home (26884)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 13:38:27 -0400 nate-mbp.home (26884)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 13:38:27 -0400 nate-mbp.home (26884)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 13:38:27 -0400 nate-mbp.home (26884)] INFO : Environment: development
+[2016-06-28 13:38:27 -0400 nate-mbp.home (26884)] INFO : Dispatcher: unicorn
+[2016-06-28 13:38:27 -0400 nate-mbp.home (26884)] INFO : Application: SlackRubyBotServer
+[2016-06-28 13:38:27 -0400 nate-mbp.home (26884)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 13:38:27 -0400 nate-mbp.home (26884)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 13:38:27 -0400 nate-mbp.home (26884)] INFO : Installing Mongo instrumentation
+[2016-06-28 13:38:27 -0400 nate-mbp.home (26884)] INFO : Installing Net instrumentation
+[2016-06-28 13:38:27 -0400 nate-mbp.home (26884)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 13:38:27 -0400 nate-mbp.home (26884)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 13:38:27 -0400 nate-mbp.home (26884)] INFO : Finished instrumentation
+[2016-06-28 13:38:29 -0400 nate-mbp.home (26891)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 13:38:29 -0400 nate-mbp.home (26891)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 13:38:29 -0400 nate-mbp.home (26891)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 13:38:29 -0400 nate-mbp.home (26891)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 13:38:29 -0400 nate-mbp.home (26891)] INFO : Environment: development
+[2016-06-28 13:38:29 -0400 nate-mbp.home (26891)] INFO : Dispatcher: unicorn
+[2016-06-28 13:38:29 -0400 nate-mbp.home (26891)] INFO : Application: SlackRubyBotServer
+[2016-06-28 13:38:29 -0400 nate-mbp.home (26891)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 13:38:29 -0400 nate-mbp.home (26891)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 13:38:29 -0400 nate-mbp.home (26891)] INFO : Installing Mongo instrumentation
+[2016-06-28 13:38:29 -0400 nate-mbp.home (26891)] INFO : Installing Net instrumentation
+[2016-06-28 13:38:29 -0400 nate-mbp.home (26891)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 13:38:29 -0400 nate-mbp.home (26891)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 13:38:29 -0400 nate-mbp.home (26891)] INFO : Finished instrumentation
+[2016-06-28 13:39:33 -0400 nate-mbp.home (26937)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 13:39:33 -0400 nate-mbp.home (26937)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 13:39:33 -0400 nate-mbp.home (26937)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 13:39:33 -0400 nate-mbp.home (26937)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 13:39:33 -0400 nate-mbp.home (26937)] INFO : Environment: development
+[2016-06-28 13:39:33 -0400 nate-mbp.home (26937)] INFO : Dispatcher: unicorn
+[2016-06-28 13:39:33 -0400 nate-mbp.home (26937)] INFO : Application: SlackRubyBotServer
+[2016-06-28 13:39:33 -0400 nate-mbp.home (26937)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 13:39:33 -0400 nate-mbp.home (26937)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 13:39:33 -0400 nate-mbp.home (26937)] INFO : Installing Mongo instrumentation
+[2016-06-28 13:39:33 -0400 nate-mbp.home (26937)] INFO : Installing Net instrumentation
+[2016-06-28 13:39:33 -0400 nate-mbp.home (26937)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 13:39:33 -0400 nate-mbp.home (26937)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 13:39:33 -0400 nate-mbp.home (26937)] INFO : Finished instrumentation
+[2016-06-28 13:39:34 -0400 nate-mbp.home (26937)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 13:39:34 -0400 nate-mbp.home (26937)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 13:39:34 -0400 nate-mbp.home (26937)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 13:39:34 -0400 nate-mbp.home (26937)] INFO : Environment: development
+[2016-06-28 13:39:34 -0400 nate-mbp.home (26937)] INFO : Dispatcher: unicorn
+[2016-06-28 13:39:34 -0400 nate-mbp.home (26937)] INFO : Application: SlackRubyBotServer
+[2016-06-28 13:39:34 -0400 nate-mbp.home (26937)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 13:39:34 -0400 nate-mbp.home (26937)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-28 13:39:34 -0400 nate-mbp.home (26937)] INFO : Installing New Relic supported SlackRubyBot instrumentation
+[2016-06-28 13:39:34 -0400 nate-mbp.home (26937)] ERROR : Error while installing slack_ruby_bot_instrumentation instrumentation:
+[2016-06-28 13:39:34 -0400 nate-mbp.home (26937)] ERROR : NameError: undefined method `message' for class `SlackRubyBot::Server'
+[2016-06-28 13:43:17 -0400 nate-mbp.home (27095)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 13:43:17 -0400 nate-mbp.home (27095)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 13:43:17 -0400 nate-mbp.home (27095)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 13:43:17 -0400 nate-mbp.home (27095)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 13:43:17 -0400 nate-mbp.home (27095)] INFO : Environment: development
+[2016-06-28 13:43:17 -0400 nate-mbp.home (27095)] INFO : Dispatcher: unicorn
+[2016-06-28 13:43:17 -0400 nate-mbp.home (27095)] INFO : Application: SlackRubyBotServer
+[2016-06-28 13:43:17 -0400 nate-mbp.home (27095)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 13:43:18 -0400 nate-mbp.home (27095)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 13:43:18 -0400 nate-mbp.home (27095)] INFO : Installing Mongo instrumentation
+[2016-06-28 13:43:18 -0400 nate-mbp.home (27095)] INFO : Installing Net instrumentation
+[2016-06-28 13:43:18 -0400 nate-mbp.home (27095)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 13:43:18 -0400 nate-mbp.home (27095)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 13:43:18 -0400 nate-mbp.home (27095)] INFO : Finished instrumentation
+[2016-06-28 13:43:18 -0400 nate-mbp.home (27095)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 13:43:18 -0400 nate-mbp.home (27095)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 13:43:18 -0400 nate-mbp.home (27095)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 13:43:18 -0400 nate-mbp.home (27095)] INFO : Environment: development
+[2016-06-28 13:43:18 -0400 nate-mbp.home (27095)] INFO : Dispatcher: unicorn
+[2016-06-28 13:43:18 -0400 nate-mbp.home (27095)] INFO : Application: SlackRubyBotServer
+[2016-06-28 13:43:18 -0400 nate-mbp.home (27095)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 13:43:18 -0400 nate-mbp.home (27095)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-28 13:43:18 -0400 nate-mbp.home (27095)] INFO : Installing New Relic supported SlackRubyBot instrumentation
+[2016-06-28 13:43:18 -0400 nate-mbp.home (27095)] ERROR : Error while installing slack_ruby_bot_instrumentation instrumentation:
+[2016-06-28 13:43:18 -0400 nate-mbp.home (27095)] ERROR : NameError: undefined method `message' for class `SlackRubyBot::Server'
+[2016-06-28 14:00:15 -0400 nate-mbp.home (27323)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 14:00:15 -0400 nate-mbp.home (27323)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 14:00:15 -0400 nate-mbp.home (27323)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 14:00:15 -0400 nate-mbp.home (27323)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 14:00:15 -0400 nate-mbp.home (27323)] INFO : Environment: development
+[2016-06-28 14:00:15 -0400 nate-mbp.home (27323)] INFO : Dispatcher: unicorn
+[2016-06-28 14:00:15 -0400 nate-mbp.home (27323)] INFO : Application: SlackRubyBotServer
+[2016-06-28 14:00:15 -0400 nate-mbp.home (27323)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 14:00:15 -0400 nate-mbp.home (27323)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 14:00:15 -0400 nate-mbp.home (27323)] INFO : Installing Mongo instrumentation
+[2016-06-28 14:00:15 -0400 nate-mbp.home (27323)] INFO : Installing Net instrumentation
+[2016-06-28 14:00:15 -0400 nate-mbp.home (27323)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 14:00:15 -0400 nate-mbp.home (27323)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 14:00:15 -0400 nate-mbp.home (27323)] INFO : Finished instrumentation
+[2016-06-28 14:00:15 -0400 nate-mbp.home (27323)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 14:00:15 -0400 nate-mbp.home (27323)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 14:00:15 -0400 nate-mbp.home (27323)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 14:00:15 -0400 nate-mbp.home (27323)] INFO : Environment: development
+[2016-06-28 14:00:15 -0400 nate-mbp.home (27323)] INFO : Dispatcher: unicorn
+[2016-06-28 14:00:15 -0400 nate-mbp.home (27323)] INFO : Application: SlackRubyBotServer
+[2016-06-28 14:00:15 -0400 nate-mbp.home (27323)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 14:00:15 -0400 nate-mbp.home (27323)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-28 14:00:15 -0400 nate-mbp.home (27323)] INFO : Installing New Relic supported SlackRubyBot instrumentation
+[2016-06-28 14:00:15 -0400 nate-mbp.home (27323)] ERROR : Error while installing slack_ruby_bot_instrumentation instrumentation:
+[2016-06-28 14:00:15 -0400 nate-mbp.home (27323)] ERROR : NameError: undefined method `message' for class `SlackRubyBot::Server'
+[2016-06-28 14:00:53 -0400 nate-mbp.home (27366)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 14:00:53 -0400 nate-mbp.home (27366)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 14:00:53 -0400 nate-mbp.home (27366)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 14:00:53 -0400 nate-mbp.home (27366)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 14:00:53 -0400 nate-mbp.home (27366)] INFO : Environment: development
+[2016-06-28 14:00:53 -0400 nate-mbp.home (27366)] INFO : Dispatcher: unicorn
+[2016-06-28 14:00:53 -0400 nate-mbp.home (27366)] INFO : Application: SlackRubyBotServer
+[2016-06-28 14:00:53 -0400 nate-mbp.home (27366)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 14:00:53 -0400 nate-mbp.home (27366)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 14:00:53 -0400 nate-mbp.home (27366)] INFO : Installing Mongo instrumentation
+[2016-06-28 14:00:53 -0400 nate-mbp.home (27366)] INFO : Installing Net instrumentation
+[2016-06-28 14:00:53 -0400 nate-mbp.home (27366)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 14:00:53 -0400 nate-mbp.home (27366)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 14:00:53 -0400 nate-mbp.home (27366)] INFO : Finished instrumentation
+[2016-06-28 14:00:53 -0400 nate-mbp.home (27366)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 14:00:53 -0400 nate-mbp.home (27366)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 14:00:53 -0400 nate-mbp.home (27366)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 14:00:53 -0400 nate-mbp.home (27366)] INFO : Environment: development
+[2016-06-28 14:00:53 -0400 nate-mbp.home (27366)] INFO : Dispatcher: unicorn
+[2016-06-28 14:00:53 -0400 nate-mbp.home (27366)] INFO : Application: SlackRubyBotServer
+[2016-06-28 14:00:53 -0400 nate-mbp.home (27366)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 14:00:54 -0400 nate-mbp.home (27366)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-28 14:00:54 -0400 nate-mbp.home (27366)] INFO : Installing New Relic supported SlackRubyBot instrumentation
+[2016-06-28 14:00:54 -0400 nate-mbp.home (27366)] ERROR : Error while installing slack_ruby_bot_instrumentation instrumentation:
+[2016-06-28 14:00:54 -0400 nate-mbp.home (27366)] ERROR : NameError: undefined method `message' for class `SlackRubyBot::Server'
+[2016-06-28 14:20:24 -0400 nate-mbp.home (27613)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 14:20:24 -0400 nate-mbp.home (27613)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 14:20:24 -0400 nate-mbp.home (27613)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 14:20:24 -0400 nate-mbp.home (27613)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 14:20:24 -0400 nate-mbp.home (27613)] INFO : Environment: development
+[2016-06-28 14:20:24 -0400 nate-mbp.home (27613)] INFO : Dispatcher: unicorn
+[2016-06-28 14:20:24 -0400 nate-mbp.home (27613)] INFO : Application: SlackRubyBotServer
+[2016-06-28 14:20:24 -0400 nate-mbp.home (27613)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 14:20:24 -0400 nate-mbp.home (27613)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 14:20:24 -0400 nate-mbp.home (27613)] INFO : Installing Mongo instrumentation
+[2016-06-28 14:20:24 -0400 nate-mbp.home (27613)] INFO : Installing Net instrumentation
+[2016-06-28 14:20:24 -0400 nate-mbp.home (27613)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 14:20:24 -0400 nate-mbp.home (27613)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 14:20:24 -0400 nate-mbp.home (27613)] INFO : Finished instrumentation
+[2016-06-28 14:20:24 -0400 nate-mbp.home (27613)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 14:20:24 -0400 nate-mbp.home (27613)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 14:20:24 -0400 nate-mbp.home (27613)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 14:20:24 -0400 nate-mbp.home (27613)] INFO : Environment: development
+[2016-06-28 14:20:24 -0400 nate-mbp.home (27613)] INFO : Dispatcher: unicorn
+[2016-06-28 14:20:24 -0400 nate-mbp.home (27613)] INFO : Application: SlackRubyBotServer
+[2016-06-28 14:20:24 -0400 nate-mbp.home (27613)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 14:20:24 -0400 nate-mbp.home (27613)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-28 14:20:24 -0400 nate-mbp.home (27613)] INFO : Installing New Relic supported SlackRubyBot instrumentation
+[2016-06-28 14:20:24 -0400 nate-mbp.home (27613)] ERROR : Error while installing slack_ruby_bot_instrumentation instrumentation:
+[2016-06-28 14:20:24 -0400 nate-mbp.home (27613)] ERROR : NameError: undefined method `message' for class `SlackRubyBot::Server'
+[2016-06-28 14:20:56 -0400 nate-mbp.home (27654)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 14:20:56 -0400 nate-mbp.home (27654)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 14:20:56 -0400 nate-mbp.home (27654)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 14:20:56 -0400 nate-mbp.home (27654)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 14:20:56 -0400 nate-mbp.home (27654)] INFO : Environment: development
+[2016-06-28 14:20:56 -0400 nate-mbp.home (27654)] INFO : Dispatcher: unicorn
+[2016-06-28 14:20:56 -0400 nate-mbp.home (27654)] INFO : Application: SlackRubyBotServer
+[2016-06-28 14:20:56 -0400 nate-mbp.home (27654)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 14:20:56 -0400 nate-mbp.home (27654)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 14:20:56 -0400 nate-mbp.home (27654)] INFO : Installing Mongo instrumentation
+[2016-06-28 14:20:56 -0400 nate-mbp.home (27654)] INFO : Installing Net instrumentation
+[2016-06-28 14:20:56 -0400 nate-mbp.home (27654)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 14:20:56 -0400 nate-mbp.home (27654)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 14:20:56 -0400 nate-mbp.home (27654)] INFO : Finished instrumentation
+[2016-06-28 14:20:56 -0400 nate-mbp.home (27654)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 14:20:56 -0400 nate-mbp.home (27654)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 14:20:56 -0400 nate-mbp.home (27654)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 14:20:56 -0400 nate-mbp.home (27654)] INFO : Environment: development
+[2016-06-28 14:20:56 -0400 nate-mbp.home (27654)] INFO : Dispatcher: unicorn
+[2016-06-28 14:20:56 -0400 nate-mbp.home (27654)] INFO : Application: SlackRubyBotServer
+[2016-06-28 14:20:56 -0400 nate-mbp.home (27654)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 14:20:57 -0400 nate-mbp.home (27654)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-28 14:20:57 -0400 nate-mbp.home (27654)] INFO : Installing New Relic supported SlackRubyBot instrumentation
+[2016-06-28 14:20:57 -0400 nate-mbp.home (27654)] ERROR : Error while installing slack_ruby_bot_instrumentation instrumentation:
+[2016-06-28 14:20:57 -0400 nate-mbp.home (27654)] ERROR : NameError: undefined method `message' for class `SlackRubyBot::Server'
+[2016-06-28 14:23:02 -0400 nate-mbp.home (27773)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 14:23:02 -0400 nate-mbp.home (27773)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 14:23:02 -0400 nate-mbp.home (27773)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 14:23:02 -0400 nate-mbp.home (27773)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 14:23:02 -0400 nate-mbp.home (27773)] INFO : Environment: development
+[2016-06-28 14:23:02 -0400 nate-mbp.home (27773)] INFO : Dispatcher: unicorn
+[2016-06-28 14:23:02 -0400 nate-mbp.home (27773)] INFO : Application: SlackRubyBotServer
+[2016-06-28 14:23:02 -0400 nate-mbp.home (27773)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 14:23:02 -0400 nate-mbp.home (27773)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 14:23:02 -0400 nate-mbp.home (27773)] INFO : Installing Mongo instrumentation
+[2016-06-28 14:23:02 -0400 nate-mbp.home (27773)] INFO : Installing Net instrumentation
+[2016-06-28 14:23:02 -0400 nate-mbp.home (27773)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 14:23:02 -0400 nate-mbp.home (27773)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 14:23:02 -0400 nate-mbp.home (27773)] INFO : Finished instrumentation
+[2016-06-28 14:23:03 -0400 nate-mbp.home (27779)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 14:23:03 -0400 nate-mbp.home (27779)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 14:23:03 -0400 nate-mbp.home (27779)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 14:23:03 -0400 nate-mbp.home (27779)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 14:23:03 -0400 nate-mbp.home (27779)] INFO : Environment: development
+[2016-06-28 14:23:03 -0400 nate-mbp.home (27779)] INFO : Dispatcher: unicorn
+[2016-06-28 14:23:03 -0400 nate-mbp.home (27779)] INFO : Application: SlackRubyBotServer
+[2016-06-28 14:23:03 -0400 nate-mbp.home (27779)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 14:23:03 -0400 nate-mbp.home (27779)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 14:23:03 -0400 nate-mbp.home (27779)] INFO : Installing Mongo instrumentation
+[2016-06-28 14:23:03 -0400 nate-mbp.home (27779)] INFO : Installing Net instrumentation
+[2016-06-28 14:23:03 -0400 nate-mbp.home (27779)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 14:23:03 -0400 nate-mbp.home (27779)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 14:23:03 -0400 nate-mbp.home (27779)] INFO : Finished instrumentation
+[2016-06-28 14:23:05 -0400 nate-mbp.home (27814)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 14:23:05 -0400 nate-mbp.home (27814)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 14:23:05 -0400 nate-mbp.home (27814)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 14:23:05 -0400 nate-mbp.home (27814)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 14:23:05 -0400 nate-mbp.home (27814)] INFO : Environment: development
+[2016-06-28 14:23:05 -0400 nate-mbp.home (27814)] INFO : Dispatcher: unicorn
+[2016-06-28 14:23:05 -0400 nate-mbp.home (27814)] INFO : Application: SlackRubyBotServer
+[2016-06-28 14:23:05 -0400 nate-mbp.home (27814)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 14:23:05 -0400 nate-mbp.home (27814)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 14:23:05 -0400 nate-mbp.home (27814)] INFO : Installing Mongo instrumentation
+[2016-06-28 14:23:05 -0400 nate-mbp.home (27814)] INFO : Installing Net instrumentation
+[2016-06-28 14:23:05 -0400 nate-mbp.home (27814)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 14:23:05 -0400 nate-mbp.home (27814)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 14:23:05 -0400 nate-mbp.home (27814)] INFO : Finished instrumentation
+[2016-06-28 14:23:06 -0400 nate-mbp.home (27843)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 14:23:06 -0400 nate-mbp.home (27843)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 14:23:06 -0400 nate-mbp.home (27843)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 14:23:06 -0400 nate-mbp.home (27843)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 14:23:06 -0400 nate-mbp.home (27843)] INFO : Environment: development
+[2016-06-28 14:23:06 -0400 nate-mbp.home (27843)] INFO : Dispatcher: unicorn
+[2016-06-28 14:23:06 -0400 nate-mbp.home (27843)] INFO : Application: SlackRubyBotServer
+[2016-06-28 14:23:06 -0400 nate-mbp.home (27843)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 14:23:06 -0400 nate-mbp.home (27843)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 14:23:06 -0400 nate-mbp.home (27843)] INFO : Installing Mongo instrumentation
+[2016-06-28 14:23:06 -0400 nate-mbp.home (27843)] INFO : Installing Net instrumentation
+[2016-06-28 14:23:06 -0400 nate-mbp.home (27843)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 14:23:06 -0400 nate-mbp.home (27843)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 14:23:06 -0400 nate-mbp.home (27843)] INFO : Finished instrumentation
+[2016-06-28 14:23:07 -0400 nate-mbp.home (27849)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 14:23:07 -0400 nate-mbp.home (27849)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 14:23:07 -0400 nate-mbp.home (27849)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 14:23:07 -0400 nate-mbp.home (27849)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 14:23:07 -0400 nate-mbp.home (27849)] INFO : Environment: development
+[2016-06-28 14:23:07 -0400 nate-mbp.home (27849)] INFO : Dispatcher: unicorn
+[2016-06-28 14:23:07 -0400 nate-mbp.home (27849)] INFO : Application: SlackRubyBotServer
+[2016-06-28 14:23:07 -0400 nate-mbp.home (27849)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 14:23:07 -0400 nate-mbp.home (27849)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 14:23:07 -0400 nate-mbp.home (27849)] INFO : Installing Mongo instrumentation
+[2016-06-28 14:23:07 -0400 nate-mbp.home (27849)] INFO : Installing Net instrumentation
+[2016-06-28 14:23:07 -0400 nate-mbp.home (27849)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 14:23:07 -0400 nate-mbp.home (27849)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 14:23:07 -0400 nate-mbp.home (27849)] INFO : Finished instrumentation
+[2016-06-28 14:23:52 -0400 nate-mbp.home (27905)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 14:23:52 -0400 nate-mbp.home (27905)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 14:23:52 -0400 nate-mbp.home (27905)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 14:23:52 -0400 nate-mbp.home (27905)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 14:23:52 -0400 nate-mbp.home (27905)] INFO : Environment: development
+[2016-06-28 14:23:52 -0400 nate-mbp.home (27905)] INFO : Dispatcher: unicorn
+[2016-06-28 14:23:52 -0400 nate-mbp.home (27905)] INFO : Application: SlackRubyBotServer
+[2016-06-28 14:23:52 -0400 nate-mbp.home (27905)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 14:23:53 -0400 nate-mbp.home (27905)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 14:23:53 -0400 nate-mbp.home (27905)] INFO : Installing Mongo instrumentation
+[2016-06-28 14:23:53 -0400 nate-mbp.home (27905)] INFO : Installing Net instrumentation
+[2016-06-28 14:23:53 -0400 nate-mbp.home (27905)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 14:23:53 -0400 nate-mbp.home (27905)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 14:23:53 -0400 nate-mbp.home (27905)] INFO : Finished instrumentation
+[2016-06-28 14:23:53 -0400 nate-mbp.home (27905)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 14:23:53 -0400 nate-mbp.home (27905)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 14:23:53 -0400 nate-mbp.home (27905)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 14:23:53 -0400 nate-mbp.home (27905)] INFO : Environment: development
+[2016-06-28 14:23:53 -0400 nate-mbp.home (27905)] INFO : Dispatcher: unicorn
+[2016-06-28 14:23:53 -0400 nate-mbp.home (27905)] INFO : Application: SlackRubyBotServer
+[2016-06-28 14:23:53 -0400 nate-mbp.home (27905)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 14:23:53 -0400 nate-mbp.home (27905)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-28 14:23:53 -0400 nate-mbp.home (27905)] INFO : Installing New Relic supported SlackRubyBot instrumentation
+[2016-06-28 14:23:53 -0400 nate-mbp.home (27905)] ERROR : Error while installing slack_ruby_bot_instrumentation instrumentation:
+[2016-06-28 14:23:53 -0400 nate-mbp.home (27905)] ERROR : NameError: undefined method `message' for class `SlackRubyBot::Server'
+[2016-06-28 14:25:00 -0400 nate-mbp.home (27947)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 14:25:00 -0400 nate-mbp.home (27947)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 14:25:00 -0400 nate-mbp.home (27947)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 14:25:00 -0400 nate-mbp.home (27947)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 14:25:00 -0400 nate-mbp.home (27947)] INFO : Environment: development
+[2016-06-28 14:25:00 -0400 nate-mbp.home (27947)] INFO : Dispatcher: unicorn
+[2016-06-28 14:25:00 -0400 nate-mbp.home (27947)] INFO : Application: SlackRubyBotServer
+[2016-06-28 14:25:00 -0400 nate-mbp.home (27947)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 14:25:00 -0400 nate-mbp.home (27947)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 14:25:00 -0400 nate-mbp.home (27947)] INFO : Installing Mongo instrumentation
+[2016-06-28 14:25:00 -0400 nate-mbp.home (27947)] INFO : Installing Net instrumentation
+[2016-06-28 14:25:00 -0400 nate-mbp.home (27947)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 14:25:00 -0400 nate-mbp.home (27947)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 14:25:00 -0400 nate-mbp.home (27947)] INFO : Finished instrumentation
+[2016-06-28 14:25:01 -0400 nate-mbp.home (27947)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 14:25:01 -0400 nate-mbp.home (27947)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 14:25:01 -0400 nate-mbp.home (27947)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 14:25:01 -0400 nate-mbp.home (27947)] INFO : Environment: development
+[2016-06-28 14:25:01 -0400 nate-mbp.home (27947)] INFO : Dispatcher: unicorn
+[2016-06-28 14:25:01 -0400 nate-mbp.home (27947)] INFO : Application: SlackRubyBotServer
+[2016-06-28 14:25:01 -0400 nate-mbp.home (27947)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 14:25:01 -0400 nate-mbp.home (27947)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-28 14:25:01 -0400 nate-mbp.home (27947)] INFO : Installing New Relic supported SlackRubyBot instrumentation
+[2016-06-28 14:25:01 -0400 nate-mbp.home (27947)] ERROR : Error while installing slack_ruby_bot_instrumentation instrumentation:
+[2016-06-28 14:25:01 -0400 nate-mbp.home (27947)] ERROR : NameError: undefined method `message' for class `SlackRubyBot::Server'
+[2016-06-28 15:39:16 -0400 nate-mbp.home (28666)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 15:39:16 -0400 nate-mbp.home (28666)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 15:39:16 -0400 nate-mbp.home (28666)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 15:39:16 -0400 nate-mbp.home (28666)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 15:39:16 -0400 nate-mbp.home (28666)] INFO : Environment: development
+[2016-06-28 15:39:16 -0400 nate-mbp.home (28666)] INFO : Dispatcher: unicorn
+[2016-06-28 15:39:16 -0400 nate-mbp.home (28666)] INFO : Application: SlackRubyBotServer
+[2016-06-28 15:39:16 -0400 nate-mbp.home (28666)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 15:39:16 -0400 nate-mbp.home (28666)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 15:39:16 -0400 nate-mbp.home (28666)] INFO : Installing Mongo instrumentation
+[2016-06-28 15:39:16 -0400 nate-mbp.home (28666)] INFO : Installing Net instrumentation
+[2016-06-28 15:39:16 -0400 nate-mbp.home (28666)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 15:39:16 -0400 nate-mbp.home (28666)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 15:39:16 -0400 nate-mbp.home (28666)] INFO : Finished instrumentation
+[2016-06-28 15:39:16 -0400 nate-mbp.home (28666)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 15:39:16 -0400 nate-mbp.home (28666)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 15:39:16 -0400 nate-mbp.home (28666)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 15:39:16 -0400 nate-mbp.home (28666)] INFO : Environment: development
+[2016-06-28 15:39:16 -0400 nate-mbp.home (28666)] INFO : Dispatcher: unicorn
+[2016-06-28 15:39:16 -0400 nate-mbp.home (28666)] INFO : Application: SlackRubyBotServer
+[2016-06-28 15:39:16 -0400 nate-mbp.home (28666)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 15:39:16 -0400 nate-mbp.home (28666)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-28 15:39:16 -0400 nate-mbp.home (28666)] INFO : Installing New Relic supported SlackRubyBot instrumentation
+[2016-06-28 15:39:16 -0400 nate-mbp.home (28666)] ERROR : Error while installing slack_ruby_bot_instrumentation instrumentation:
+[2016-06-28 15:39:16 -0400 nate-mbp.home (28666)] ERROR : NameError: undefined method `message' for class `SlackRubyBot::Server'
+[2016-06-28 15:42:35 -0400 nate-mbp.home (28762)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 15:42:35 -0400 nate-mbp.home (28762)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 15:42:35 -0400 nate-mbp.home (28762)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 15:42:35 -0400 nate-mbp.home (28762)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 15:42:35 -0400 nate-mbp.home (28762)] INFO : Environment: development
+[2016-06-28 15:42:35 -0400 nate-mbp.home (28762)] INFO : Dispatcher: unicorn
+[2016-06-28 15:42:35 -0400 nate-mbp.home (28762)] INFO : Application: SlackRubyBotServer
+[2016-06-28 15:42:35 -0400 nate-mbp.home (28762)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 15:42:35 -0400 nate-mbp.home (28762)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 15:42:35 -0400 nate-mbp.home (28762)] INFO : Installing Mongo instrumentation
+[2016-06-28 15:42:35 -0400 nate-mbp.home (28762)] INFO : Installing Net instrumentation
+[2016-06-28 15:42:35 -0400 nate-mbp.home (28762)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 15:42:35 -0400 nate-mbp.home (28762)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 15:42:35 -0400 nate-mbp.home (28762)] INFO : Finished instrumentation
+[2016-06-28 15:42:35 -0400 nate-mbp.home (28762)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 15:42:35 -0400 nate-mbp.home (28762)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 15:42:35 -0400 nate-mbp.home (28762)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 15:42:35 -0400 nate-mbp.home (28762)] INFO : Environment: development
+[2016-06-28 15:42:35 -0400 nate-mbp.home (28762)] INFO : Dispatcher: unicorn
+[2016-06-28 15:42:35 -0400 nate-mbp.home (28762)] INFO : Application: SlackRubyBotServer
+[2016-06-28 15:42:35 -0400 nate-mbp.home (28762)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 15:42:36 -0400 nate-mbp.home (28762)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-28 15:42:36 -0400 nate-mbp.home (28762)] INFO : Installing New Relic supported SlackRubyBot instrumentation
+[2016-06-28 15:42:36 -0400 nate-mbp.home (28762)] ERROR : Error while installing slack_ruby_bot_instrumentation instrumentation:
+[2016-06-28 15:42:36 -0400 nate-mbp.home (28762)] ERROR : NameError: undefined method `message' for class `SlackRubyBot::Server'
+[2016-06-28 15:46:08 -0400 nate-mbp.home (28826)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 15:46:08 -0400 nate-mbp.home (28826)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 15:46:08 -0400 nate-mbp.home (28826)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 15:46:08 -0400 nate-mbp.home (28826)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 15:46:08 -0400 nate-mbp.home (28826)] INFO : Environment: development
+[2016-06-28 15:46:08 -0400 nate-mbp.home (28826)] INFO : Dispatcher: unicorn
+[2016-06-28 15:46:08 -0400 nate-mbp.home (28826)] INFO : Application: SlackRubyBotServer
+[2016-06-28 15:46:08 -0400 nate-mbp.home (28826)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 15:46:08 -0400 nate-mbp.home (28826)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 15:46:08 -0400 nate-mbp.home (28826)] INFO : Installing Mongo instrumentation
+[2016-06-28 15:46:08 -0400 nate-mbp.home (28826)] INFO : Installing Net instrumentation
+[2016-06-28 15:46:08 -0400 nate-mbp.home (28826)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 15:46:08 -0400 nate-mbp.home (28826)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 15:46:08 -0400 nate-mbp.home (28826)] INFO : Finished instrumentation
+[2016-06-28 15:46:09 -0400 nate-mbp.home (28832)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 15:46:09 -0400 nate-mbp.home (28832)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 15:46:09 -0400 nate-mbp.home (28832)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 15:46:09 -0400 nate-mbp.home (28832)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 15:46:09 -0400 nate-mbp.home (28832)] INFO : Environment: development
+[2016-06-28 15:46:09 -0400 nate-mbp.home (28832)] INFO : Dispatcher: unicorn
+[2016-06-28 15:46:09 -0400 nate-mbp.home (28832)] INFO : Application: SlackRubyBotServer
+[2016-06-28 15:46:09 -0400 nate-mbp.home (28832)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 15:46:09 -0400 nate-mbp.home (28832)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 15:46:09 -0400 nate-mbp.home (28832)] INFO : Installing Mongo instrumentation
+[2016-06-28 15:46:09 -0400 nate-mbp.home (28832)] INFO : Installing Net instrumentation
+[2016-06-28 15:46:09 -0400 nate-mbp.home (28832)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 15:46:09 -0400 nate-mbp.home (28832)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 15:46:09 -0400 nate-mbp.home (28832)] INFO : Finished instrumentation
+[2016-06-28 15:46:10 -0400 nate-mbp.home (28838)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 15:46:10 -0400 nate-mbp.home (28838)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 15:46:10 -0400 nate-mbp.home (28838)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 15:46:10 -0400 nate-mbp.home (28838)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 15:46:10 -0400 nate-mbp.home (28838)] INFO : Environment: development
+[2016-06-28 15:46:10 -0400 nate-mbp.home (28838)] INFO : Dispatcher: unicorn
+[2016-06-28 15:46:10 -0400 nate-mbp.home (28838)] INFO : Application: SlackRubyBotServer
+[2016-06-28 15:46:10 -0400 nate-mbp.home (28838)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 15:46:10 -0400 nate-mbp.home (28838)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 15:46:10 -0400 nate-mbp.home (28838)] INFO : Installing Mongo instrumentation
+[2016-06-28 15:46:10 -0400 nate-mbp.home (28838)] INFO : Installing Net instrumentation
+[2016-06-28 15:46:10 -0400 nate-mbp.home (28838)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 15:46:10 -0400 nate-mbp.home (28838)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 15:46:10 -0400 nate-mbp.home (28838)] INFO : Finished instrumentation
+[2016-06-28 15:46:12 -0400 nate-mbp.home (28844)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 15:46:12 -0400 nate-mbp.home (28844)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 15:46:12 -0400 nate-mbp.home (28844)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 15:46:12 -0400 nate-mbp.home (28844)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 15:46:12 -0400 nate-mbp.home (28844)] INFO : Environment: development
+[2016-06-28 15:46:12 -0400 nate-mbp.home (28844)] INFO : Dispatcher: unicorn
+[2016-06-28 15:46:12 -0400 nate-mbp.home (28844)] INFO : Application: SlackRubyBotServer
+[2016-06-28 15:46:12 -0400 nate-mbp.home (28844)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 15:46:12 -0400 nate-mbp.home (28844)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 15:46:12 -0400 nate-mbp.home (28844)] INFO : Installing Mongo instrumentation
+[2016-06-28 15:46:12 -0400 nate-mbp.home (28844)] INFO : Installing Net instrumentation
+[2016-06-28 15:46:12 -0400 nate-mbp.home (28844)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 15:46:12 -0400 nate-mbp.home (28844)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 15:46:12 -0400 nate-mbp.home (28844)] INFO : Finished instrumentation
+[2016-06-28 15:47:37 -0400 nate-mbp.home (28938)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 15:47:37 -0400 nate-mbp.home (28938)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 15:47:37 -0400 nate-mbp.home (28938)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 15:47:37 -0400 nate-mbp.home (28938)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 15:47:37 -0400 nate-mbp.home (28938)] INFO : Environment: development
+[2016-06-28 15:47:37 -0400 nate-mbp.home (28938)] INFO : Dispatcher: unicorn
+[2016-06-28 15:47:37 -0400 nate-mbp.home (28938)] INFO : Application: SlackRubyBotServer
+[2016-06-28 15:47:37 -0400 nate-mbp.home (28938)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 15:47:37 -0400 nate-mbp.home (28938)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 15:47:37 -0400 nate-mbp.home (28938)] INFO : Installing Mongo instrumentation
+[2016-06-28 15:47:37 -0400 nate-mbp.home (28938)] INFO : Installing Net instrumentation
+[2016-06-28 15:47:37 -0400 nate-mbp.home (28938)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 15:47:37 -0400 nate-mbp.home (28938)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 15:47:37 -0400 nate-mbp.home (28938)] INFO : Finished instrumentation
+[2016-06-28 15:47:37 -0400 nate-mbp.home (28938)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 15:47:37 -0400 nate-mbp.home (28938)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 15:47:37 -0400 nate-mbp.home (28938)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 15:47:37 -0400 nate-mbp.home (28938)] INFO : Environment: development
+[2016-06-28 15:47:37 -0400 nate-mbp.home (28938)] INFO : Dispatcher: unicorn
+[2016-06-28 15:47:37 -0400 nate-mbp.home (28938)] INFO : Application: SlackRubyBotServer
+[2016-06-28 15:47:37 -0400 nate-mbp.home (28938)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 15:47:37 -0400 nate-mbp.home (28938)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-28 15:47:37 -0400 nate-mbp.home (28938)] INFO : Installing New Relic supported SlackRubyBot instrumentation
+[2016-06-28 15:47:37 -0400 nate-mbp.home (28938)] ERROR : Error while installing slack_ruby_bot_instrumentation instrumentation:
+[2016-06-28 15:47:37 -0400 nate-mbp.home (28938)] ERROR : NameError: undefined method `message' for class `SlackRubyBot::Server'
+[2016-06-28 15:57:35 -0400 nate-mbp.home (29091)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 15:57:35 -0400 nate-mbp.home (29091)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 15:57:35 -0400 nate-mbp.home (29091)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 15:57:35 -0400 nate-mbp.home (29091)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 15:57:35 -0400 nate-mbp.home (29091)] INFO : Environment: development
+[2016-06-28 15:57:35 -0400 nate-mbp.home (29091)] INFO : Dispatcher: unicorn
+[2016-06-28 15:57:35 -0400 nate-mbp.home (29091)] INFO : Application: SlackRubyBotServer
+[2016-06-28 15:57:35 -0400 nate-mbp.home (29091)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 15:57:35 -0400 nate-mbp.home (29091)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 15:57:35 -0400 nate-mbp.home (29091)] INFO : Installing Mongo instrumentation
+[2016-06-28 15:57:35 -0400 nate-mbp.home (29091)] INFO : Installing Net instrumentation
+[2016-06-28 15:57:35 -0400 nate-mbp.home (29091)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 15:57:35 -0400 nate-mbp.home (29091)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 15:57:35 -0400 nate-mbp.home (29091)] INFO : Finished instrumentation
+[2016-06-28 15:57:35 -0400 nate-mbp.home (29091)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 15:57:35 -0400 nate-mbp.home (29091)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 15:57:35 -0400 nate-mbp.home (29091)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 15:57:35 -0400 nate-mbp.home (29091)] INFO : Environment: development
+[2016-06-28 15:57:35 -0400 nate-mbp.home (29091)] INFO : Dispatcher: unicorn
+[2016-06-28 15:57:35 -0400 nate-mbp.home (29091)] INFO : Application: SlackRubyBotServer
+[2016-06-28 15:57:35 -0400 nate-mbp.home (29091)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 15:57:35 -0400 nate-mbp.home (29091)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-28 15:57:35 -0400 nate-mbp.home (29091)] INFO : Installing New Relic supported SlackRubyBot instrumentation
+[2016-06-28 15:57:35 -0400 nate-mbp.home (29091)] ERROR : Error while installing slack_ruby_bot_instrumentation instrumentation:
+[2016-06-28 15:57:35 -0400 nate-mbp.home (29091)] ERROR : NameError: undefined method `message' for class `SlackRubyBot::Server'
+[2016-06-28 16:02:04 -0400 nate-mbp.home (29177)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 16:02:04 -0400 nate-mbp.home (29177)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 16:02:04 -0400 nate-mbp.home (29177)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 16:02:04 -0400 nate-mbp.home (29177)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 16:02:04 -0400 nate-mbp.home (29177)] INFO : Environment: development
+[2016-06-28 16:02:04 -0400 nate-mbp.home (29177)] INFO : Dispatcher: unicorn
+[2016-06-28 16:02:04 -0400 nate-mbp.home (29177)] INFO : Application: SlackRubyBotServer
+[2016-06-28 16:02:04 -0400 nate-mbp.home (29177)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 16:02:04 -0400 nate-mbp.home (29177)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 16:02:04 -0400 nate-mbp.home (29177)] INFO : Installing Mongo instrumentation
+[2016-06-28 16:02:04 -0400 nate-mbp.home (29177)] INFO : Installing Net instrumentation
+[2016-06-28 16:02:04 -0400 nate-mbp.home (29177)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 16:02:04 -0400 nate-mbp.home (29177)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 16:02:04 -0400 nate-mbp.home (29177)] INFO : Finished instrumentation
+[2016-06-28 16:02:05 -0400 nate-mbp.home (29183)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 16:02:05 -0400 nate-mbp.home (29183)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 16:02:05 -0400 nate-mbp.home (29183)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 16:02:05 -0400 nate-mbp.home (29183)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 16:02:05 -0400 nate-mbp.home (29183)] INFO : Environment: development
+[2016-06-28 16:02:05 -0400 nate-mbp.home (29183)] INFO : Dispatcher: unicorn
+[2016-06-28 16:02:05 -0400 nate-mbp.home (29183)] INFO : Application: SlackRubyBotServer
+[2016-06-28 16:02:05 -0400 nate-mbp.home (29183)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 16:02:05 -0400 nate-mbp.home (29183)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 16:02:05 -0400 nate-mbp.home (29183)] INFO : Installing Mongo instrumentation
+[2016-06-28 16:02:05 -0400 nate-mbp.home (29183)] INFO : Installing Net instrumentation
+[2016-06-28 16:02:05 -0400 nate-mbp.home (29183)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 16:02:05 -0400 nate-mbp.home (29183)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 16:02:05 -0400 nate-mbp.home (29183)] INFO : Finished instrumentation
+[2016-06-28 16:02:06 -0400 nate-mbp.home (29190)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 16:02:06 -0400 nate-mbp.home (29190)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 16:02:06 -0400 nate-mbp.home (29190)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 16:02:06 -0400 nate-mbp.home (29190)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 16:02:06 -0400 nate-mbp.home (29190)] INFO : Environment: development
+[2016-06-28 16:02:06 -0400 nate-mbp.home (29190)] INFO : Dispatcher: unicorn
+[2016-06-28 16:02:06 -0400 nate-mbp.home (29190)] INFO : Application: SlackRubyBotServer
+[2016-06-28 16:02:06 -0400 nate-mbp.home (29190)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 16:02:06 -0400 nate-mbp.home (29190)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 16:02:06 -0400 nate-mbp.home (29190)] INFO : Installing Mongo instrumentation
+[2016-06-28 16:02:06 -0400 nate-mbp.home (29190)] INFO : Installing Net instrumentation
+[2016-06-28 16:02:06 -0400 nate-mbp.home (29190)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 16:02:06 -0400 nate-mbp.home (29190)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 16:02:06 -0400 nate-mbp.home (29190)] INFO : Finished instrumentation
+[2016-06-28 16:02:07 -0400 nate-mbp.home (29196)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 16:02:07 -0400 nate-mbp.home (29196)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 16:02:07 -0400 nate-mbp.home (29196)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 16:02:07 -0400 nate-mbp.home (29196)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 16:02:07 -0400 nate-mbp.home (29196)] INFO : Environment: development
+[2016-06-28 16:02:07 -0400 nate-mbp.home (29196)] INFO : Dispatcher: unicorn
+[2016-06-28 16:02:07 -0400 nate-mbp.home (29196)] INFO : Application: SlackRubyBotServer
+[2016-06-28 16:02:07 -0400 nate-mbp.home (29196)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 16:02:07 -0400 nate-mbp.home (29196)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 16:02:07 -0400 nate-mbp.home (29196)] INFO : Installing Mongo instrumentation
+[2016-06-28 16:02:07 -0400 nate-mbp.home (29196)] INFO : Installing Net instrumentation
+[2016-06-28 16:02:07 -0400 nate-mbp.home (29196)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 16:02:07 -0400 nate-mbp.home (29196)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 16:02:07 -0400 nate-mbp.home (29196)] INFO : Finished instrumentation
+[2016-06-28 16:02:08 -0400 nate-mbp.home (29202)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 16:02:08 -0400 nate-mbp.home (29202)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 16:02:08 -0400 nate-mbp.home (29202)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 16:02:08 -0400 nate-mbp.home (29202)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 16:02:08 -0400 nate-mbp.home (29202)] INFO : Environment: development
+[2016-06-28 16:02:08 -0400 nate-mbp.home (29202)] INFO : Dispatcher: unicorn
+[2016-06-28 16:02:08 -0400 nate-mbp.home (29202)] INFO : Application: SlackRubyBotServer
+[2016-06-28 16:02:08 -0400 nate-mbp.home (29202)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 16:02:08 -0400 nate-mbp.home (29202)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 16:02:08 -0400 nate-mbp.home (29202)] INFO : Installing Mongo instrumentation
+[2016-06-28 16:02:08 -0400 nate-mbp.home (29202)] INFO : Installing Net instrumentation
+[2016-06-28 16:02:08 -0400 nate-mbp.home (29202)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 16:02:08 -0400 nate-mbp.home (29202)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 16:02:08 -0400 nate-mbp.home (29202)] INFO : Finished instrumentation
+[2016-06-28 16:02:09 -0400 nate-mbp.home (29208)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 16:02:09 -0400 nate-mbp.home (29208)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 16:02:09 -0400 nate-mbp.home (29208)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 16:02:09 -0400 nate-mbp.home (29208)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 16:02:09 -0400 nate-mbp.home (29208)] INFO : Environment: development
+[2016-06-28 16:02:09 -0400 nate-mbp.home (29208)] INFO : Dispatcher: unicorn
+[2016-06-28 16:02:09 -0400 nate-mbp.home (29208)] INFO : Application: SlackRubyBotServer
+[2016-06-28 16:02:09 -0400 nate-mbp.home (29208)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 16:02:09 -0400 nate-mbp.home (29208)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 16:02:09 -0400 nate-mbp.home (29208)] INFO : Installing Mongo instrumentation
+[2016-06-28 16:02:09 -0400 nate-mbp.home (29208)] INFO : Installing Net instrumentation
+[2016-06-28 16:02:09 -0400 nate-mbp.home (29208)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 16:02:09 -0400 nate-mbp.home (29208)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 16:02:09 -0400 nate-mbp.home (29208)] INFO : Finished instrumentation
+[2016-06-28 16:02:10 -0400 nate-mbp.home (29214)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 16:02:10 -0400 nate-mbp.home (29214)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 16:02:10 -0400 nate-mbp.home (29214)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 16:02:10 -0400 nate-mbp.home (29214)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 16:02:10 -0400 nate-mbp.home (29214)] INFO : Environment: development
+[2016-06-28 16:02:10 -0400 nate-mbp.home (29214)] INFO : Dispatcher: unicorn
+[2016-06-28 16:02:10 -0400 nate-mbp.home (29214)] INFO : Application: SlackRubyBotServer
+[2016-06-28 16:02:10 -0400 nate-mbp.home (29214)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 16:02:10 -0400 nate-mbp.home (29214)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 16:02:10 -0400 nate-mbp.home (29214)] INFO : Installing Mongo instrumentation
+[2016-06-28 16:02:10 -0400 nate-mbp.home (29214)] INFO : Installing Net instrumentation
+[2016-06-28 16:02:10 -0400 nate-mbp.home (29214)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 16:02:10 -0400 nate-mbp.home (29214)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 16:02:10 -0400 nate-mbp.home (29214)] INFO : Finished instrumentation
+[2016-06-28 16:02:12 -0400 nate-mbp.home (29220)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 16:02:12 -0400 nate-mbp.home (29220)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 16:02:12 -0400 nate-mbp.home (29220)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 16:02:12 -0400 nate-mbp.home (29220)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 16:02:12 -0400 nate-mbp.home (29220)] INFO : Environment: development
+[2016-06-28 16:02:12 -0400 nate-mbp.home (29220)] INFO : Dispatcher: unicorn
+[2016-06-28 16:02:12 -0400 nate-mbp.home (29220)] INFO : Application: SlackRubyBotServer
+[2016-06-28 16:02:12 -0400 nate-mbp.home (29220)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 16:02:12 -0400 nate-mbp.home (29220)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 16:02:12 -0400 nate-mbp.home (29220)] INFO : Installing Mongo instrumentation
+[2016-06-28 16:02:12 -0400 nate-mbp.home (29220)] INFO : Installing Net instrumentation
+[2016-06-28 16:02:12 -0400 nate-mbp.home (29220)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 16:02:12 -0400 nate-mbp.home (29220)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 16:02:12 -0400 nate-mbp.home (29220)] INFO : Finished instrumentation
+[2016-06-28 16:02:13 -0400 nate-mbp.home (29226)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 16:02:13 -0400 nate-mbp.home (29226)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 16:02:13 -0400 nate-mbp.home (29226)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 16:02:13 -0400 nate-mbp.home (29226)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 16:02:13 -0400 nate-mbp.home (29226)] INFO : Environment: development
+[2016-06-28 16:02:13 -0400 nate-mbp.home (29226)] INFO : Dispatcher: unicorn
+[2016-06-28 16:02:13 -0400 nate-mbp.home (29226)] INFO : Application: SlackRubyBotServer
+[2016-06-28 16:02:13 -0400 nate-mbp.home (29226)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 16:02:13 -0400 nate-mbp.home (29226)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 16:02:13 -0400 nate-mbp.home (29226)] INFO : Installing Mongo instrumentation
+[2016-06-28 16:02:13 -0400 nate-mbp.home (29226)] INFO : Installing Net instrumentation
+[2016-06-28 16:02:13 -0400 nate-mbp.home (29226)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 16:02:13 -0400 nate-mbp.home (29226)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 16:02:13 -0400 nate-mbp.home (29226)] INFO : Finished instrumentation
+[2016-06-28 16:05:20 -0400 nate-mbp.home (29289)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 16:05:20 -0400 nate-mbp.home (29289)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 16:05:20 -0400 nate-mbp.home (29289)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 16:05:20 -0400 nate-mbp.home (29289)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 16:05:20 -0400 nate-mbp.home (29289)] INFO : Environment: development
+[2016-06-28 16:05:20 -0400 nate-mbp.home (29289)] INFO : Dispatcher: unicorn
+[2016-06-28 16:05:20 -0400 nate-mbp.home (29289)] INFO : Application: SlackRubyBotServer
+[2016-06-28 16:05:20 -0400 nate-mbp.home (29289)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 16:05:20 -0400 nate-mbp.home (29289)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 16:05:20 -0400 nate-mbp.home (29289)] INFO : Installing Mongo instrumentation
+[2016-06-28 16:05:20 -0400 nate-mbp.home (29289)] INFO : Installing Net instrumentation
+[2016-06-28 16:05:20 -0400 nate-mbp.home (29289)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 16:05:20 -0400 nate-mbp.home (29289)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 16:05:20 -0400 nate-mbp.home (29289)] INFO : Finished instrumentation
+[2016-06-28 16:05:21 -0400 nate-mbp.home (29289)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 16:05:21 -0400 nate-mbp.home (29289)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 16:05:21 -0400 nate-mbp.home (29289)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 16:05:21 -0400 nate-mbp.home (29289)] INFO : Environment: development
+[2016-06-28 16:05:21 -0400 nate-mbp.home (29289)] INFO : Dispatcher: unicorn
+[2016-06-28 16:05:21 -0400 nate-mbp.home (29289)] INFO : Application: SlackRubyBotServer
+[2016-06-28 16:05:21 -0400 nate-mbp.home (29289)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 16:05:21 -0400 nate-mbp.home (29289)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-28 16:05:21 -0400 nate-mbp.home (29289)] INFO : Installing New Relic supported SlackRubyBot instrumentation
+[2016-06-28 16:05:21 -0400 nate-mbp.home (29289)] ERROR : Error while installing slack_ruby_bot_instrumentation instrumentation:
+[2016-06-28 16:05:21 -0400 nate-mbp.home (29289)] ERROR : NameError: undefined method `message' for class `SlackRubyBot::Server'
+[2016-06-28 16:08:58 -0400 nate-mbp.home (29366)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 16:08:58 -0400 nate-mbp.home (29366)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 16:08:58 -0400 nate-mbp.home (29366)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 16:08:58 -0400 nate-mbp.home (29366)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 16:08:58 -0400 nate-mbp.home (29366)] INFO : Environment: development
+[2016-06-28 16:08:58 -0400 nate-mbp.home (29366)] INFO : Dispatcher: unicorn
+[2016-06-28 16:08:58 -0400 nate-mbp.home (29366)] INFO : Application: SlackRubyBotServer
+[2016-06-28 16:08:58 -0400 nate-mbp.home (29366)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 16:08:58 -0400 nate-mbp.home (29366)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 16:08:58 -0400 nate-mbp.home (29366)] INFO : Installing Mongo instrumentation
+[2016-06-28 16:08:58 -0400 nate-mbp.home (29366)] INFO : Installing Net instrumentation
+[2016-06-28 16:08:58 -0400 nate-mbp.home (29366)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 16:08:58 -0400 nate-mbp.home (29366)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 16:08:58 -0400 nate-mbp.home (29366)] INFO : Finished instrumentation
+[2016-06-28 16:08:58 -0400 nate-mbp.home (29366)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 16:08:58 -0400 nate-mbp.home (29366)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 16:08:58 -0400 nate-mbp.home (29366)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 16:08:58 -0400 nate-mbp.home (29366)] INFO : Environment: development
+[2016-06-28 16:08:58 -0400 nate-mbp.home (29366)] INFO : Dispatcher: unicorn
+[2016-06-28 16:08:58 -0400 nate-mbp.home (29366)] INFO : Application: SlackRubyBotServer
+[2016-06-28 16:08:58 -0400 nate-mbp.home (29366)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 16:08:59 -0400 nate-mbp.home (29366)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-28 16:08:59 -0400 nate-mbp.home (29366)] INFO : Installing New Relic supported SlackRubyBot instrumentation
+[2016-06-28 16:08:59 -0400 nate-mbp.home (29366)] ERROR : Error while installing slack_ruby_bot_instrumentation instrumentation:
+[2016-06-28 16:08:59 -0400 nate-mbp.home (29366)] ERROR : NameError: undefined method `message' for class `SlackRubyBot::Server'
+[2016-06-28 16:10:57 -0400 nate-mbp.home (29417)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 16:10:57 -0400 nate-mbp.home (29417)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 16:10:57 -0400 nate-mbp.home (29417)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 16:10:57 -0400 nate-mbp.home (29417)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 16:10:57 -0400 nate-mbp.home (29417)] INFO : Environment: development
+[2016-06-28 16:10:57 -0400 nate-mbp.home (29417)] INFO : Dispatcher: unicorn
+[2016-06-28 16:10:57 -0400 nate-mbp.home (29417)] INFO : Application: SlackRubyBotServer
+[2016-06-28 16:10:57 -0400 nate-mbp.home (29417)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 16:10:57 -0400 nate-mbp.home (29417)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 16:10:57 -0400 nate-mbp.home (29417)] INFO : Installing Mongo instrumentation
+[2016-06-28 16:10:57 -0400 nate-mbp.home (29417)] INFO : Installing Net instrumentation
+[2016-06-28 16:10:57 -0400 nate-mbp.home (29417)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 16:10:57 -0400 nate-mbp.home (29417)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 16:10:57 -0400 nate-mbp.home (29417)] INFO : Finished instrumentation
+[2016-06-28 16:10:57 -0400 nate-mbp.home (29417)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 16:10:57 -0400 nate-mbp.home (29417)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 16:10:57 -0400 nate-mbp.home (29417)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 16:10:57 -0400 nate-mbp.home (29417)] INFO : Environment: development
+[2016-06-28 16:10:57 -0400 nate-mbp.home (29417)] INFO : Dispatcher: unicorn
+[2016-06-28 16:10:57 -0400 nate-mbp.home (29417)] INFO : Application: SlackRubyBotServer
+[2016-06-28 16:10:57 -0400 nate-mbp.home (29417)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 16:10:58 -0400 nate-mbp.home (29417)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-28 16:10:58 -0400 nate-mbp.home (29417)] INFO : Installing New Relic supported SlackRubyBot instrumentation
+[2016-06-28 16:10:58 -0400 nate-mbp.home (29417)] ERROR : Error while installing slack_ruby_bot_instrumentation instrumentation:
+[2016-06-28 16:10:58 -0400 nate-mbp.home (29417)] ERROR : NameError: undefined method `message' for class `SlackRubyBot::Server'
+[2016-06-28 16:21:25 -0400 nate-mbp.home (29715)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 16:21:25 -0400 nate-mbp.home (29715)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 16:21:25 -0400 nate-mbp.home (29715)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 16:21:25 -0400 nate-mbp.home (29715)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 16:21:25 -0400 nate-mbp.home (29715)] INFO : Environment: development
+[2016-06-28 16:21:25 -0400 nate-mbp.home (29715)] INFO : Dispatcher: unicorn
+[2016-06-28 16:21:25 -0400 nate-mbp.home (29715)] INFO : Application: SlackRubyBotServer
+[2016-06-28 16:21:25 -0400 nate-mbp.home (29715)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 16:21:25 -0400 nate-mbp.home (29715)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 16:21:25 -0400 nate-mbp.home (29715)] INFO : Installing Mongo instrumentation
+[2016-06-28 16:21:25 -0400 nate-mbp.home (29715)] INFO : Installing Net instrumentation
+[2016-06-28 16:21:25 -0400 nate-mbp.home (29715)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 16:21:25 -0400 nate-mbp.home (29715)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 16:21:25 -0400 nate-mbp.home (29715)] INFO : Finished instrumentation
+[2016-06-28 16:21:25 -0400 nate-mbp.home (29715)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 16:21:25 -0400 nate-mbp.home (29715)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 16:21:25 -0400 nate-mbp.home (29715)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 16:21:25 -0400 nate-mbp.home (29715)] INFO : Environment: development
+[2016-06-28 16:21:25 -0400 nate-mbp.home (29715)] INFO : Dispatcher: unicorn
+[2016-06-28 16:21:25 -0400 nate-mbp.home (29715)] INFO : Application: SlackRubyBotServer
+[2016-06-28 16:21:25 -0400 nate-mbp.home (29715)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 16:21:26 -0400 nate-mbp.home (29715)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-28 16:21:26 -0400 nate-mbp.home (29715)] INFO : Installing New Relic supported SlackRubyBot instrumentation
+[2016-06-28 16:21:26 -0400 nate-mbp.home (29715)] ERROR : Error while installing slack_ruby_bot_instrumentation instrumentation:
+[2016-06-28 16:21:26 -0400 nate-mbp.home (29715)] ERROR : NameError: undefined method `message' for class `SlackRubyBot::Server'
+[2016-06-28 16:24:39 -0400 nate-mbp.home (29804)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 16:24:39 -0400 nate-mbp.home (29804)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 16:24:39 -0400 nate-mbp.home (29804)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 16:24:39 -0400 nate-mbp.home (29804)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 16:24:39 -0400 nate-mbp.home (29804)] INFO : Environment: development
+[2016-06-28 16:24:39 -0400 nate-mbp.home (29804)] INFO : Dispatcher: unicorn
+[2016-06-28 16:24:39 -0400 nate-mbp.home (29804)] INFO : Application: SlackRubyBotServer
+[2016-06-28 16:24:39 -0400 nate-mbp.home (29804)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 16:24:39 -0400 nate-mbp.home (29804)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 16:24:39 -0400 nate-mbp.home (29804)] INFO : Installing Mongo instrumentation
+[2016-06-28 16:24:39 -0400 nate-mbp.home (29804)] INFO : Installing Net instrumentation
+[2016-06-28 16:24:39 -0400 nate-mbp.home (29804)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 16:24:39 -0400 nate-mbp.home (29804)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 16:24:39 -0400 nate-mbp.home (29804)] INFO : Finished instrumentation
+[2016-06-28 16:24:39 -0400 nate-mbp.home (29804)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 16:24:39 -0400 nate-mbp.home (29804)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 16:24:39 -0400 nate-mbp.home (29804)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 16:24:39 -0400 nate-mbp.home (29804)] INFO : Environment: development
+[2016-06-28 16:24:39 -0400 nate-mbp.home (29804)] INFO : Dispatcher: unicorn
+[2016-06-28 16:24:39 -0400 nate-mbp.home (29804)] INFO : Application: SlackRubyBotServer
+[2016-06-28 16:24:39 -0400 nate-mbp.home (29804)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 16:24:40 -0400 nate-mbp.home (29804)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-28 16:24:40 -0400 nate-mbp.home (29804)] INFO : Installing New Relic supported SlackRubyBot instrumentation
+[2016-06-28 16:24:40 -0400 nate-mbp.home (29804)] ERROR : Error while installing slack_ruby_bot_instrumentation instrumentation:
+[2016-06-28 16:24:40 -0400 nate-mbp.home (29804)] ERROR : NameError: undefined method `message' for class `SlackRubyBot::Server'
+[2016-06-28 16:27:16 -0400 nate-mbp.home (29860)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 16:27:16 -0400 nate-mbp.home (29860)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 16:27:16 -0400 nate-mbp.home (29860)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 16:27:16 -0400 nate-mbp.home (29860)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 16:27:16 -0400 nate-mbp.home (29860)] INFO : Environment: development
+[2016-06-28 16:27:16 -0400 nate-mbp.home (29860)] INFO : Dispatcher: unicorn
+[2016-06-28 16:27:16 -0400 nate-mbp.home (29860)] INFO : Application: SlackRubyBotServer
+[2016-06-28 16:27:16 -0400 nate-mbp.home (29860)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 16:27:16 -0400 nate-mbp.home (29860)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 16:27:16 -0400 nate-mbp.home (29860)] INFO : Installing Mongo instrumentation
+[2016-06-28 16:27:16 -0400 nate-mbp.home (29860)] INFO : Installing Net instrumentation
+[2016-06-28 16:27:16 -0400 nate-mbp.home (29860)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 16:27:16 -0400 nate-mbp.home (29860)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 16:27:16 -0400 nate-mbp.home (29860)] INFO : Finished instrumentation
+[2016-06-28 16:27:16 -0400 nate-mbp.home (29860)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 16:27:16 -0400 nate-mbp.home (29860)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 16:27:16 -0400 nate-mbp.home (29860)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 16:27:16 -0400 nate-mbp.home (29860)] INFO : Environment: development
+[2016-06-28 16:27:16 -0400 nate-mbp.home (29860)] INFO : Dispatcher: unicorn
+[2016-06-28 16:27:16 -0400 nate-mbp.home (29860)] INFO : Application: SlackRubyBotServer
+[2016-06-28 16:27:16 -0400 nate-mbp.home (29860)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 16:27:16 -0400 nate-mbp.home (29860)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-28 16:27:16 -0400 nate-mbp.home (29860)] INFO : Installing New Relic supported SlackRubyBot instrumentation
+[2016-06-28 16:27:16 -0400 nate-mbp.home (29860)] ERROR : Error while installing slack_ruby_bot_instrumentation instrumentation:
+[2016-06-28 16:27:16 -0400 nate-mbp.home (29860)] ERROR : NameError: undefined method `message' for class `SlackRubyBot::Server'
+[2016-06-28 16:28:34 -0400 nate-mbp.home (29909)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 16:28:34 -0400 nate-mbp.home (29909)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 16:28:34 -0400 nate-mbp.home (29909)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 16:28:34 -0400 nate-mbp.home (29909)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 16:28:34 -0400 nate-mbp.home (29909)] INFO : Environment: development
+[2016-06-28 16:28:34 -0400 nate-mbp.home (29909)] INFO : Dispatcher: unicorn
+[2016-06-28 16:28:34 -0400 nate-mbp.home (29909)] INFO : Application: SlackRubyBotServer
+[2016-06-28 16:28:34 -0400 nate-mbp.home (29909)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 16:28:34 -0400 nate-mbp.home (29909)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 16:28:34 -0400 nate-mbp.home (29909)] INFO : Installing Mongo instrumentation
+[2016-06-28 16:28:34 -0400 nate-mbp.home (29909)] INFO : Installing Net instrumentation
+[2016-06-28 16:28:34 -0400 nate-mbp.home (29909)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 16:28:34 -0400 nate-mbp.home (29909)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 16:28:34 -0400 nate-mbp.home (29909)] INFO : Finished instrumentation
+[2016-06-28 16:28:35 -0400 nate-mbp.home (29909)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 16:28:35 -0400 nate-mbp.home (29909)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 16:28:35 -0400 nate-mbp.home (29909)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 16:28:35 -0400 nate-mbp.home (29909)] INFO : Environment: development
+[2016-06-28 16:28:35 -0400 nate-mbp.home (29909)] INFO : Dispatcher: unicorn
+[2016-06-28 16:28:35 -0400 nate-mbp.home (29909)] INFO : Application: SlackRubyBotServer
+[2016-06-28 16:28:35 -0400 nate-mbp.home (29909)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 16:28:35 -0400 nate-mbp.home (29909)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-28 16:28:35 -0400 nate-mbp.home (29909)] INFO : Installing New Relic supported SlackRubyBot instrumentation
+[2016-06-28 16:28:35 -0400 nate-mbp.home (29909)] ERROR : Error while installing slack_ruby_bot_instrumentation instrumentation:
+[2016-06-28 16:28:35 -0400 nate-mbp.home (29909)] ERROR : NameError: undefined method `message' for class `SlackRubyBot::Server'
+[2016-06-28 16:37:33 -0400 nate-mbp.home (30023)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 16:37:33 -0400 nate-mbp.home (30023)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 16:37:33 -0400 nate-mbp.home (30023)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 16:37:33 -0400 nate-mbp.home (30023)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 16:37:33 -0400 nate-mbp.home (30023)] INFO : Environment: development
+[2016-06-28 16:37:33 -0400 nate-mbp.home (30023)] INFO : Dispatcher: unicorn
+[2016-06-28 16:37:33 -0400 nate-mbp.home (30023)] INFO : Application: SlackRubyBotServer
+[2016-06-28 16:37:33 -0400 nate-mbp.home (30023)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 16:37:33 -0400 nate-mbp.home (30023)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 16:37:33 -0400 nate-mbp.home (30023)] INFO : Installing Mongo instrumentation
+[2016-06-28 16:37:33 -0400 nate-mbp.home (30023)] INFO : Installing Net instrumentation
+[2016-06-28 16:37:33 -0400 nate-mbp.home (30023)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 16:37:33 -0400 nate-mbp.home (30023)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 16:37:33 -0400 nate-mbp.home (30023)] INFO : Finished instrumentation
+[2016-06-28 16:37:33 -0400 nate-mbp.home (30023)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 16:37:33 -0400 nate-mbp.home (30023)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 16:37:33 -0400 nate-mbp.home (30023)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 16:37:33 -0400 nate-mbp.home (30023)] INFO : Environment: development
+[2016-06-28 16:37:33 -0400 nate-mbp.home (30023)] INFO : Dispatcher: unicorn
+[2016-06-28 16:37:33 -0400 nate-mbp.home (30023)] INFO : Application: SlackRubyBotServer
+[2016-06-28 16:37:33 -0400 nate-mbp.home (30023)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 16:37:34 -0400 nate-mbp.home (30023)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-28 16:37:34 -0400 nate-mbp.home (30023)] INFO : Installing New Relic supported SlackRubyBot instrumentation
+[2016-06-28 16:37:34 -0400 nate-mbp.home (30023)] ERROR : Error while installing slack_ruby_bot_instrumentation instrumentation:
+[2016-06-28 16:37:34 -0400 nate-mbp.home (30023)] ERROR : NameError: undefined method `message' for class `SlackRubyBot::Server'
+[2016-06-28 16:42:58 -0400 nate-mbp.home (30110)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 16:42:58 -0400 nate-mbp.home (30110)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 16:42:58 -0400 nate-mbp.home (30110)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 16:42:58 -0400 nate-mbp.home (30110)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 16:42:58 -0400 nate-mbp.home (30110)] INFO : Environment: development
+[2016-06-28 16:42:58 -0400 nate-mbp.home (30110)] INFO : Dispatcher: unicorn
+[2016-06-28 16:42:58 -0400 nate-mbp.home (30110)] INFO : Application: SlackRubyBotServer
+[2016-06-28 16:42:58 -0400 nate-mbp.home (30110)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 16:42:58 -0400 nate-mbp.home (30110)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 16:42:58 -0400 nate-mbp.home (30110)] INFO : Installing Mongo instrumentation
+[2016-06-28 16:42:58 -0400 nate-mbp.home (30110)] INFO : Installing Net instrumentation
+[2016-06-28 16:42:58 -0400 nate-mbp.home (30110)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 16:42:58 -0400 nate-mbp.home (30110)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 16:42:58 -0400 nate-mbp.home (30110)] INFO : Finished instrumentation
+[2016-06-28 16:42:58 -0400 nate-mbp.home (30110)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 16:42:58 -0400 nate-mbp.home (30110)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 16:42:58 -0400 nate-mbp.home (30110)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 16:42:58 -0400 nate-mbp.home (30110)] INFO : Environment: development
+[2016-06-28 16:42:58 -0400 nate-mbp.home (30110)] INFO : Dispatcher: unicorn
+[2016-06-28 16:42:58 -0400 nate-mbp.home (30110)] INFO : Application: SlackRubyBotServer
+[2016-06-28 16:42:58 -0400 nate-mbp.home (30110)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 16:42:59 -0400 nate-mbp.home (30110)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-28 16:42:59 -0400 nate-mbp.home (30110)] INFO : Installing New Relic supported SlackRubyBot instrumentation
+[2016-06-28 16:42:59 -0400 nate-mbp.home (30110)] ERROR : Error while installing slack_ruby_bot_instrumentation instrumentation:
+[2016-06-28 16:42:59 -0400 nate-mbp.home (30110)] ERROR : NameError: undefined method `message' for class `SlackRubyBot::Server'
+[2016-06-28 16:53:00 -0400 nate-mbp.home (30262)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 16:53:00 -0400 nate-mbp.home (30262)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 16:53:00 -0400 nate-mbp.home (30262)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 16:53:00 -0400 nate-mbp.home (30262)] WARN : Agent is configured not to use SSL when communicating with New Relic's servers
+[2016-06-28 16:53:00 -0400 nate-mbp.home (30262)] INFO : Environment: development
+[2016-06-28 16:53:00 -0400 nate-mbp.home (30262)] INFO : Dispatcher: unicorn
+[2016-06-28 16:53:00 -0400 nate-mbp.home (30262)] INFO : Application: SlackRubyBotServer
+[2016-06-28 16:53:00 -0400 nate-mbp.home (30262)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 16:53:00 -0400 nate-mbp.home (30262)] INFO : Installing New Relic supported Grape instrumentation
+[2016-06-28 16:53:00 -0400 nate-mbp.home (30262)] INFO : Installing Mongo instrumentation
+[2016-06-28 16:53:00 -0400 nate-mbp.home (30262)] INFO : Installing Net instrumentation
+[2016-06-28 16:53:00 -0400 nate-mbp.home (30262)] INFO : Installing deferred Rack::Builder instrumentation
+[2016-06-28 16:53:00 -0400 nate-mbp.home (30262)] INFO : Installing Rack::Builder middleware instrumentation
+[2016-06-28 16:53:00 -0400 nate-mbp.home (30262)] INFO : Finished instrumentation
+[2016-06-28 16:53:00 -0400 nate-mbp.home (30262)] INFO : Starting the New Relic agent in "development" environment.
+[2016-06-28 16:53:00 -0400 nate-mbp.home (30262)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2016-06-28 16:53:00 -0400 nate-mbp.home (30262)] INFO : Reading configuration from config/newrelic.yml (/Users/nate/Documents/code/Slack Bots/time_spent)
+[2016-06-28 16:53:00 -0400 nate-mbp.home (30262)] INFO : Environment: development
+[2016-06-28 16:53:00 -0400 nate-mbp.home (30262)] INFO : Dispatcher: unicorn
+[2016-06-28 16:53:00 -0400 nate-mbp.home (30262)] INFO : Application: SlackRubyBotServer
+[2016-06-28 16:53:00 -0400 nate-mbp.home (30262)] WARN : Agent configured not to send data in this environment.
+[2016-06-28 16:53:01 -0400 nate-mbp.home (30262)] INFO : Doing deferred dependency-detection before Rack startup
+[2016-06-28 16:53:01 -0400 nate-mbp.home (30262)] INFO : Installing New Relic supported SlackRubyBot instrumentation
+[2016-06-28 16:53:01 -0400 nate-mbp.home (30262)] ERROR : Error while installing slack_ruby_bot_instrumentation instrumentation:
+[2016-06-28 16:53:01 -0400 nate-mbp.home (30262)] ERROR : NameError: undefined method `message' for class `SlackRubyBot::Server'
