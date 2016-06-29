@@ -12,3 +12,5 @@ Start tracking your time on Slack
 Stop tracking your time on Slack and show how much time you've logged
 ### slacktrack
 Show how much time you've logged since punching in
+### @timespent help
+Ask the bot for help. Displays information on available commands
