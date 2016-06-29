@@ -5,6 +5,7 @@ class SlackTrack < SlackRubyBot::Commands::Base
     @time_spent = 0
   end
 
+  # Returns a pretty-printed version of the time based on elapsed seconds.
   def self.format_time(seconds)
     minutes = 0
 
