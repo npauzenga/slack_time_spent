@@ -3,14 +3,20 @@
 A bot that allows you to punch the clock. Punch in when you start your day on Slack,
 punch out when you leave.
 
+## Check it out
+
+The app is live at --
+
+https://slack-time-spent.herokuapp.com/
+
 ## Commands
 
 Commands can be called by simply typing the command (no @ or /)
-### punch in
+#### punch in
 Start tracking your time on Slack
-### punch out
+#### punch out
 Stop tracking your time on Slack and show how much time you've logged
-### slacktrack
+#### slacktrack
 Show how much time you've logged since punching in
-### @timespent help
+#### @timespent help
 Ask the bot for help. Displays information on available commands
